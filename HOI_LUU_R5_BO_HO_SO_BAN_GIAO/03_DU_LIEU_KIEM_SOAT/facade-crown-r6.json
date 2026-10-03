@@ -1,0 +1,538 @@
+{
+ "revision": "R6-CROWN",
+ "date": "2026-09-30",
+ "based_on": {
+  "geometry": "R2 (geometry-r2.json, floor-schedule-AD-R2.csv)",
+  "rings": "R3 panel-grid-AD-R3.csv",
+  "AD_facade": "facade-ad-r3.json",
+  "BC_facade": "facade-bc-r4.json"
+ },
+ "architecture_status": "owner-directed crown revision (REV-C01..C08); design intent, not structural/MEP/BMU/aviation verified",
+ "owner_decision": "A/D architectural tops may exceed R5 values (480/285 m) to reach the crown intent; B/C keep brief H02 (40 floors, <=160 m)",
+ "supersedes": {
+  "facade-ad-r3.json": [
+   "A.major_face_width_base_roof_m",
+   "A.major_projection_base_roof_m",
+   "A.crown_secondary_angles_deg",
+   "A.crown_secondary_face_projection_m",
+   "D.major_face_width_base_roof_m",
+   "D.major_projection_base_roof_m",
+   "D.crown_secondary_fins",
+   "D.crown_secondary_angles_deg",
+   "D.crown_secondary_face_projection_m",
+   "night"
+  ],
+  "R1/R2 crown formulas": [
+   "A Z_top/S(u)",
+   "D Z_top/S(u)"
+  ],
+  "facade-bc-r4.json": [
+   "crown.maximum_z_m",
+   "crown.top_corner_z_m",
+   "crown.inset_top_bbox_m",
+   "crown.screen_and_fins",
+   "major_corner_ribs (L36 and above)",
+   "palette.night"
+  ]
+ },
+ "unchanged": [
+  "tower centres, slab outlines, floor schedules, roofs, cores, GFA/FAR/density, B/C units and loggias",
+  "A/D 8 major rib angles 22.5+45k, 160/112 body panel columns, D35 3 m glass inset"
+ ],
+ "A": {
+  "roof_z": 452.4,
+  "crown": {
+   "Z_top": "480.00 + 40.00*|cos(2*theta)|^1.5  (theta local polar, deg 0 = +X)",
+   "S_u": "1 - 0.30*(3u^2 - 2u^3)",
+   "XY": "S(u)*P_roof + (u^3 - 2u^2 + u)*H(theta)*T  (R1 Hermite tangent retained)",
+   "Z": "452.40 + u*H(theta), H = Z_top - 452.40",
+   "envelope_top_z": 520.0,
+   "corner_low_z": 480.0,
+   "major_ribs": {
+    "panel_nodes": [
+     9,
+     31,
+     49,
+     71,
+     89,
+     111,
+     129,
+     151
+    ],
+    "rule": "pairs converge to groove axes k*90deg: phi(u) = axis + (theta_rib - axis)*(1 - 0.85*s(u)), s = 3u^2 - 2u^3",
+    "face_m_root_tip": [
+     1.4,
+     0.9
+    ],
+    "projection_m_root_tip": [
+     1.5,
+     2.5
+    ],
+    "type": "free-standing architectural blade, steel-backed; not a column"
+   },
+   "fins": {
+    "count": 32,
+    "panel_nodes": [
+     2,
+     7,
+     12,
+     17,
+     23,
+     28,
+     33,
+     38,
+     42,
+     47,
+     52,
+     57,
+     63,
+     68,
+     73,
+     78,
+     82,
+     87,
+     92,
+     97,
+     103,
+     108,
+     113,
+     118,
+     122,
+     127,
+     132,
+     137,
+     143,
+     148,
+     153,
+     158
+    ],
+    "rule": "two per 22.5deg sector at round(n/4), round(3n/4); fins inside a lancet stop on the rib",
+    "face_m": 0.12,
+    "projection_m_root_tip": [
+     0.6,
+     1.0
+    ]
+   },
+   "rim": "top edge member 0.30 m, open between each converging rib pair (apex slot)",
+   "equipment_screen": {
+    "inset_m": 1.5,
+    "top_z": 470.0,
+    "follows_crown_contraction": true
+   },
+   "occupied_floors": 0
+  },
+  "transition_zone": {
+   "floors": "A90–A98",
+   "z_m": [
+    410.4,
+    452.4
+   ],
+   "major_rib_face_m": {
+    "A07_A89": 1.05,
+    "A90_to_roof": [
+     1.05,
+     1.4
+    ]
+   },
+   "major_rib_projection_m": {
+    "A07_A89": 0.75,
+    "A90_to_roof": [
+     0.75,
+     1.5
+    ]
+   },
+   "fin_nodes": "same 32 nodes as crown fins",
+   "fin_projection_m": [
+    0.18,
+    0.6
+   ],
+   "fin_face_m": [
+    0.08,
+    0.12
+   ],
+   "flank_frit": {
+    "panels": "one panel column each side of every major rib",
+    "frit_percent": [
+     0,
+     50
+    ],
+    "A97_perimeter_m": 171.63,
+    "flank_width_m": 17.21,
+    "share_of_perimeter": 0.1003
+   }
+  },
+  "metrics_R6": {
+   "roof_z": 452.4,
+   "envelope_top_z": 520.0,
+   "rim_min_z": 480.0,
+   "rim_max_z": 518.962,
+   "rib_tip_max_z": 519.539,
+   "architectural_top_z": 519.539,
+   "top_ring_W": 35.28,
+   "top_ring_H": 30.492,
+   "roof_W": 50.399,
+   "roof_H": 43.56,
+   "crown_height_max": 67.139,
+   "crown_height_min": 27.6,
+   "crown_share_of_height": 0.129,
+   "highest_occupiable_top_z": 445.6,
+   "vanity_height": 73.939,
+   "vanity_share": 0.142,
+   "top_zone_height": 109.139,
+   "top_zone_share": 0.21,
+   "apex_slot_width": 1.744,
+   "rib_mean_lean_deg": 9.827,
+   "fins_total": 32,
+   "fins_terminating_on_ribs": 16
+  },
+  "metrics_R5": {
+   "roof_z": 452.4,
+   "envelope_top_z": 480.0,
+   "rim_min_z": 477.0,
+   "rim_max_z": 480.0,
+   "rib_tip_max_z": 478.5,
+   "architectural_top_z": 480.0,
+   "top_ring_W": 44.351,
+   "top_ring_H": 38.333,
+   "roof_W": 50.399,
+   "roof_H": 43.56,
+   "crown_height_max": 27.6,
+   "crown_height_min": 24.6,
+   "crown_share_of_height": 0.058,
+   "highest_occupiable_top_z": 445.6,
+   "vanity_height": 34.4,
+   "vanity_share": 0.072,
+   "top_zone_height": 27.6,
+   "top_zone_share": 0.058,
+   "apex_slot_width": null,
+   "rib_mean_lean_deg": 0.0,
+   "fins_total": 0,
+   "fins_terminating_on_ribs": 0
+  }
+ },
+ "D": {
+  "roof_z": 269.45,
+  "crown": {
+   "Z_top": "286.00 + 24.00*((1 + cos(theta - 180deg))/2)^2",
+   "S_u": "1 - 0.15*(3u^2 - 2u^3)",
+   "XY": "R1 Hermite rule as A",
+   "Z": "269.45 + u*H(theta)",
+   "envelope_top_z": 310.0,
+   "low_side_z": 286.0,
+   "apex_face": "-X face (toward A; A bearing from D ~196.6deg)",
+   "major_ribs": {
+    "panel_nodes": [
+     7,
+     22,
+     34,
+     49,
+     63,
+     78,
+     90,
+     105
+    ],
+    "converging": [
+     49,
+     63
+    ],
+    "axis_deg": 180,
+    "face_m_root_tip": [
+     0.8,
+     0.55
+    ],
+    "projection_m_root_tip": [
+     0.8,
+     1.4
+    ]
+   },
+   "fins": {
+    "count": 23,
+    "panel_nodes": [
+     0,
+     4,
+     12,
+     16,
+     20,
+     24,
+     28,
+     32,
+     36,
+     40,
+     44,
+     52,
+     60,
+     68,
+     72,
+     76,
+     80,
+     84,
+     88,
+     92,
+     96,
+     100,
+     108
+    ],
+    "rule": "hotel piers every 4 panel nodes from node 0 (facade-ad-r3 hotel_pier_every_panel_columns=4); piers within 1 node of a rib merge into the rib; the pier on the 180deg axis is omitted so the apex slot stays open",
+    "face_m": 0.1,
+    "projection_m_root_tip": [
+     0.6,
+     0.9
+    ],
+    "assumption": "pier start node 0 to be confirmed by facade team"
+   },
+   "equipment_screen": {
+    "inset_m": 1.2,
+    "top_z": 282.0,
+    "height_above_roof_m": 12.55
+   },
+   "occupied_floors": 0
+  },
+  "transition_zone": {
+   "floors": "D56–D62",
+   "z_m": [
+    240.85,
+    269.45
+   ],
+   "major_rib_face_m": {
+    "D07_D55": 0.52,
+    "D56_to_roof": [
+     0.52,
+     0.8
+    ]
+   },
+   "major_rib_projection_m": {
+    "D07_D55": 0.38,
+    "D56_to_roof": [
+     0.38,
+     0.8
+    ]
+   },
+   "hotel_pier_projection_m": [
+    0.3,
+    0.6
+   ]
+  },
+  "metrics_R6": {
+   "roof_z": 269.45,
+   "envelope_top_z": 310.0,
+   "rim_min_z": 286.0,
+   "rim_max_z": 309.837,
+   "rib_tip_max_z": 309.958,
+   "architectural_top_z": 309.958,
+   "top_ring_W": 42.5,
+   "top_ring_H": 28.9,
+   "roof_W": 50.0,
+   "roof_H": 34.0,
+   "crown_height_max": 40.508,
+   "crown_height_min": 16.55,
+   "crown_share_of_height": 0.131,
+   "highest_occupiable_top_z": 263.65,
+   "vanity_height": 46.308,
+   "vanity_share": 0.149,
+   "top_zone_height": 69.108,
+   "top_zone_share": 0.223,
+   "apex_slot_width": 2.506,
+   "rib_mean_lean_deg": 13.391,
+   "fins_total": 23,
+   "fins_terminating_on_ribs": 2
+  },
+  "metrics_R5": {
+   "roof_z": 269.45,
+   "envelope_top_z": 285.0,
+   "rim_min_z": 278.0,
+   "rim_max_z": 285.0,
+   "rib_tip_max_z": 284.734,
+   "architectural_top_z": 285.0,
+   "top_ring_W": 48.25,
+   "top_ring_H": 32.81,
+   "roof_W": 50.0,
+   "roof_H": 34.0,
+   "crown_height_max": 15.55,
+   "crown_height_min": 8.55,
+   "crown_share_of_height": 0.055,
+   "highest_occupiable_top_z": 263.65,
+   "vanity_height": 21.35,
+   "vanity_share": 0.075,
+   "top_zone_height": 15.55,
+   "top_zone_share": 0.055,
+   "apex_slot_width": null,
+   "rib_mean_lean_deg": 0.0,
+   "fins_total": 0,
+   "fins_terminating_on_ribs": 0
+  }
+ },
+ "BC": {
+  "roof_z": 154.2,
+  "crown_top_z": 159.9,
+  "brief_limit_z": 160.0,
+  "corner_rib_top_z": [
+   159.9,
+   159.9,
+   159.9,
+   159.9,
+   159.9,
+   159.9,
+   159.9,
+   159.9
+  ],
+  "frame": {
+   "fin_face_m": 0.055,
+   "fin_depth_m": 0.45,
+   "fin_positions": "every mullion of the R4 typical control grid (124/tower)",
+   "top_beam_z": [
+    159.3,
+    159.9
+   ],
+   "solid_band": "none - open frame; plant screened by inner louvre line on L40 roof"
+  },
+  "top_zone": {
+   "floors": "L36–L40 + crown",
+   "z0": 135.6,
+   "z1": 159.9,
+   "corner_rib_face_m": [
+    0.28,
+    0.4
+   ],
+   "corner_rib_projection_m": [
+    0.32,
+    0.6
+   ],
+   "penthouse_loggia_surround_reveal_m": 0.45
+  },
+  "bands": {
+   "L06": "glass-tone louvre, ribs continuous",
+   "L23": "glass-tone louvre, ribs continuous",
+   "L40": "glass-tone louvre, reads as base of crown frame"
+  }
+ },
+ "technical_bands": {
+  "A": {
+   "technical": [
+    "A31",
+    "A55",
+    "A79",
+    "A98"
+   ],
+   "skylobby_clear": [
+    "A32",
+    "A56",
+    "A80"
+   ]
+  },
+  "D": {
+   "technical": [
+    "D20",
+    "D34",
+    "D48",
+    "D62"
+   ],
+   "intended_shadow_band": "D35 (3 m inset, retained)"
+  },
+  "BC": {
+   "technical": [
+    "L06",
+    "L23",
+    "L40"
+   ]
+  },
+  "rule": "louvres matched to vision-glass tone and reflectance (dark-backed / shadow-box), ribs continuous, band reads as a thin reveal; free area to be verified"
+ },
+ "night": {
+  "A_kelvin": 3500,
+  "D_kelvin": 3000,
+  "BC_kelvin": 3000,
+  "relative_luminance_concept": {
+   "A": 1.0,
+   "D": 0.6,
+   "BC": 0.3
+  },
+  "layers": [
+   "inner equipment screen uniformly washed so outer fins read in silhouette",
+   "major ribs grazed with luminance increasing through A90–A98 / D56–D62",
+   "apex slots (A x4, D x1) brightest element",
+   "sky lobbies lit from inside; B/C crown frame inner face + lobbies only"
+  ],
+  "excluded": "no media facade, no floor-edge LED banding, no full-height rib lighting",
+  "status": "concept ratios only; luminance, glare and fixture selection open"
+ },
+ "open_items": [
+  "crown steel frame, blade cantilevers and connection to A98/D62 structure",
+  "wind tunnel: vortex shedding, fin flutter, whistling at slots",
+  "BMU / facade access strategy with crown-integrated monorail or davits",
+  "aviation / planning clearance for A +520 and D +310 (no site data)",
+  "equipment heights under A +470 / D +282 screens",
+  "glare to A90–A97 offices and D hotel rooms",
+  "cost and programme"
+ ],
+ "checks": [
+  {
+   "name": "slab_outlines_floor_levels_roofs_unchanged",
+   "passed": true,
+   "scope": "R6 reads R2/R3 rings and schedules read-only; no floor added; roofs A +452.40 / D +269.45 / B-C +154.20"
+  },
+  {
+   "name": "no_GFA_added",
+   "passed": true,
+   "detail": 631690.24,
+   "scope": "crowns contain no occupied or maintenance floor area"
+  },
+  {
+   "name": "A_top_within_R6_envelope_520",
+   "passed": true,
+   "detail": 519.539
+  },
+  {
+   "name": "D_top_within_R6_envelope_310",
+   "passed": true,
+   "detail": 309.958
+  },
+  {
+   "name": "BC_top_within_H02_160",
+   "passed": true,
+   "detail": 159.9
+  },
+  {
+   "name": "hierarchy_D_over_A_ratio_0.58_0.61",
+   "passed": true,
+   "detail": 0.5966
+  },
+  {
+   "name": "crown_fins_on_panel_nodes",
+   "passed": true,
+   "detail": {
+    "A": 0.0,
+    "D": 0.0
+   }
+  },
+  {
+   "name": "fins_do_not_coincide_with_major_ribs",
+   "passed": true
+  },
+  {
+   "name": "equipment_screen_below_lowest_rim",
+   "passed": true
+  },
+  {
+   "name": "member_counts",
+   "passed": true,
+   "detail": {
+    "A": {
+     "rib": 8,
+     "fin": 32,
+     "rim": 4
+    },
+    "D": {
+     "rib": 8,
+     "fin": 23,
+     "rim": 1
+    }
+   }
+  }
+ ],
+ "source_sha256": {
+  "panel-grid-AD-R3.csv": "daf727bad9225d8c53954aed4ed394acb06089205d6eeb4707897a484c39e365",
+  "floor-schedule-AD-R2.csv": "dbefe3d315f66841e88445843c15595f61e5f43cf5e8b73de4db1249c371c9a0",
+  "facade-ad-r3.json": "6dbcf4636cb6b4b8770ea8c23ab50f0244a79c920dbee4a29351803ef096048d",
+  "facade-bc-r4.json": "de8cafb0509ccef827164b5edd8bee2049284194fea5a44c883d94cc5da65f7a"
+ }
+}

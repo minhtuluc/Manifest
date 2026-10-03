@@ -1,0 +1,2444 @@
+{
+  "revision": "R4-BC-FACADE",
+  "date": "2026-09-30",
+  "architecture_status": "recommended facade design for review, not owner approval or construction design",
+  "source_duplex_sha256": "88c6dd7a429d76181cfa58671dbe791f3eb454ff6f5e695ed2bf258400cd2acc",
+  "source_AD_R3_sha256": "6dbcf4636cb6b4b8770ea8c23ab50f0244a79c920dbee4a29351803ef096048d",
+  "footprint_outline_local_m": [
+    [
+      0,
+      0
+    ],
+    [
+      32,
+      0
+    ],
+    [
+      32,
+      6
+    ],
+    [
+      60,
+      6
+    ],
+    [
+      60,
+      36
+    ],
+    [
+      28,
+      36
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      0,
+      30
+    ]
+  ],
+  "tower_transforms": {
+    "B": "X=94+u;Y=102+v",
+    "C": "X=194-u;Y=53-v"
+  },
+  "typical_duplex": "7.20 m = two physical levels of 3.60 m; 14 regular six-unit pairs per tower; two four-unit penthouse pairs",
+  "floor_schedule": [
+    {
+      "floor": 1,
+      "z": 0,
+      "height": 6,
+      "top": 6,
+      "program": "Đế chung",
+      "module": null,
+      "upper": false,
+      "area": null,
+      "new_units": 0
+    },
+    {
+      "floor": 2,
+      "z": 6,
+      "height": 5.4,
+      "top": 11.4,
+      "program": "Đế chung",
+      "module": null,
+      "upper": false,
+      "area": null,
+      "new_units": 0
+    },
+    {
+      "floor": 3,
+      "z": 11.4,
+      "height": 5.4,
+      "top": 16.8,
+      "program": "Đế chung",
+      "module": null,
+      "upper": false,
+      "area": null,
+      "new_units": 0
+    },
+    {
+      "floor": 4,
+      "z": 16.8,
+      "height": 4.8,
+      "top": 21.6,
+      "program": "Đế chung",
+      "module": null,
+      "upper": false,
+      "area": null,
+      "new_units": 0
+    },
+    {
+      "floor": 5,
+      "z": 21.6,
+      "height": 4.8,
+      "top": 26.4,
+      "program": "Đế chung",
+      "module": null,
+      "upper": false,
+      "area": null,
+      "new_units": 0
+    },
+    {
+      "floor": 6,
+      "z": 26.4,
+      "height": 4.2,
+      "top": 30.6,
+      "program": "Clubhouse + lánh nạn + kỹ thuật",
+      "module": null,
+      "upper": false,
+      "area": 1824,
+      "new_units": 0
+    },
+    {
+      "floor": 7,
+      "z": 30.6,
+      "height": 3.6,
+      "top": 34.2,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 1,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 8,
+      "z": 34.2,
+      "height": 3.6,
+      "top": 37.8,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 1,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 9,
+      "z": 37.8,
+      "height": 3.6,
+      "top": 41.4,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 2,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 10,
+      "z": 41.4,
+      "height": 3.6,
+      "top": 45.0,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 2,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 11,
+      "z": 45.0,
+      "height": 3.6,
+      "top": 48.6,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 3,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 12,
+      "z": 48.6,
+      "height": 3.6,
+      "top": 52.2,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 3,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 13,
+      "z": 52.2,
+      "height": 3.6,
+      "top": 55.8,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 4,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 14,
+      "z": 55.8,
+      "height": 3.6,
+      "top": 59.4,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 4,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 15,
+      "z": 59.4,
+      "height": 3.6,
+      "top": 63.0,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 5,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 16,
+      "z": 63.0,
+      "height": 3.6,
+      "top": 66.6,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 5,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 17,
+      "z": 66.6,
+      "height": 3.6,
+      "top": 70.2,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 6,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 18,
+      "z": 70.2,
+      "height": 3.6,
+      "top": 73.8,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 6,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 19,
+      "z": 73.8,
+      "height": 3.6,
+      "top": 77.4,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 7,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 20,
+      "z": 77.4,
+      "height": 3.6,
+      "top": 81.0,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 7,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 21,
+      "z": 81.0,
+      "height": 3.6,
+      "top": 84.6,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 8,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 22,
+      "z": 84.6,
+      "height": 3.6,
+      "top": 88.2,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 8,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 23,
+      "z": 88.2,
+      "height": 4.2,
+      "top": 92.4,
+      "program": "Lánh nạn + kỹ thuật",
+      "module": null,
+      "upper": false,
+      "area": 1824,
+      "new_units": 0
+    },
+    {
+      "floor": 24,
+      "z": 92.4,
+      "height": 3.6,
+      "top": 96.0,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 9,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 25,
+      "z": 96.0,
+      "height": 3.6,
+      "top": 99.6,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 9,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 26,
+      "z": 99.6,
+      "height": 3.6,
+      "top": 103.2,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 10,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 27,
+      "z": 103.2,
+      "height": 3.6,
+      "top": 106.8,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 10,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 28,
+      "z": 106.8,
+      "height": 3.6,
+      "top": 110.4,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 11,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 29,
+      "z": 110.4,
+      "height": 3.6,
+      "top": 114.0,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 11,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 30,
+      "z": 114.0,
+      "height": 3.6,
+      "top": 117.6,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 12,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 31,
+      "z": 117.6,
+      "height": 3.6,
+      "top": 121.2,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 12,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 32,
+      "z": 121.2,
+      "height": 3.6,
+      "top": 124.8,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 13,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 33,
+      "z": 124.8,
+      "height": 3.6,
+      "top": 128.4,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 13,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 34,
+      "z": 128.4,
+      "height": 3.6,
+      "top": 132.0,
+      "program": "Duplex điển hình — tầng dưới",
+      "module": 14,
+      "upper": false,
+      "area": 1824,
+      "new_units": 6
+    },
+    {
+      "floor": 35,
+      "z": 132.0,
+      "height": 3.6,
+      "top": 135.6,
+      "program": "Duplex điển hình — tầng trên",
+      "module": 14,
+      "upper": true,
+      "area": 1576.0,
+      "new_units": 0
+    },
+    {
+      "floor": 36,
+      "z": 135.6,
+      "height": 3.6,
+      "top": 139.2,
+      "program": "Penthouse duplex — tầng dưới",
+      "module": 15,
+      "upper": false,
+      "area": 1824,
+      "new_units": 4
+    },
+    {
+      "floor": 37,
+      "z": 139.2,
+      "height": 3.6,
+      "top": 142.8,
+      "program": "Penthouse duplex — tầng trên",
+      "module": 15,
+      "upper": true,
+      "area": 1562.56,
+      "new_units": 0
+    },
+    {
+      "floor": 38,
+      "z": 142.8,
+      "height": 3.6,
+      "top": 146.4,
+      "program": "Penthouse duplex — tầng dưới",
+      "module": 16,
+      "upper": false,
+      "area": 1824,
+      "new_units": 4
+    },
+    {
+      "floor": 39,
+      "z": 146.4,
+      "height": 3.6,
+      "top": 150.0,
+      "program": "Penthouse duplex — tầng trên",
+      "module": 16,
+      "upper": true,
+      "area": 1562.56,
+      "new_units": 0
+    },
+    {
+      "floor": 40,
+      "z": 150.0,
+      "height": 4.2,
+      "top": 154.2,
+      "program": "Kỹ thuật mái",
+      "module": null,
+      "upper": false,
+      "area": 1824,
+      "new_units": 0
+    }
+  ],
+  "major_corner_ribs": {
+    "count": 8,
+    "anchors_local_m": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        32.0,
+        0.0
+      ],
+      [
+        32.0,
+        6.0
+      ],
+      [
+        60.0,
+        6.0
+      ],
+      [
+        60.0,
+        36.0
+      ],
+      [
+        28.0,
+        36.0
+      ],
+      [
+        28.0,
+        30.0
+      ],
+      [
+        0.0,
+        30.0
+      ]
+    ],
+    "face_width_m": 0.28,
+    "projection_m": 0.32,
+    "architectural_not_structural": true
+  },
+  "window_system": {
+    "mullion_face_m": 0.055,
+    "minor_fin_projection_m": 0.18,
+    "max_nominal_chord_m": 1.82,
+    "two_storey_living_frontage_m": 6,
+    "main_rib_finish": "satin warm silver; compatible with A/D",
+    "spandrel": "muted warm grey matching glazing",
+    "corner_and_party_wall_pier_finish": "light warm mineral / pale metal; not a solid masonry wall"
+  },
+  "loggias": {
+    "typical_F_width_depth_m": [
+      5,
+      2
+    ],
+    "typical_S_width_depth_m": [
+      6,
+      2.5
+    ],
+    "penthouse_width_depth_m": [
+      10,
+      2.4
+    ],
+    "levels": "Both levels of each duplex keep individual outdoor floors, no slab removal",
+    "guard": "transparent laminated or equivalent safety system, final thickness/height by codes and engineer",
+    "side_screen_depth_strategy": "selective screens inside existing loggia side limits; final placement conditional on room plans"
+  },
+  "crown": {
+    "roof_z_m": 154.2,
+    "maximum_z_m": 158.7,
+    "top_corner_z_m": [
+      158.7,
+      158.4,
+      158.1,
+      158.7,
+      158.7,
+      158.4,
+      158.1,
+      158.7
+    ],
+    "inset_top_bbox_m": 0.4,
+    "no_extra_occupied_floor": true,
+    "screen_and_fins": "architectural intent; L40 technical ventilation/BMU reserved"
+  },
+  "palette": {
+    "B": "warm silver and pale mineral",
+    "C": "same palette, 180 degree rotation of apartment plan",
+    "night": "only selected lobby/crown; no banding every floor"
+  },
+  "source_features": {
+    "typical": {
+      "0": [
+        {
+          "type": "living",
+          "owner": "F1",
+          "span": [
+            22.0,
+            28.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "F1",
+          "span": [
+            12.0,
+            17.0
+          ],
+          "depth": 2
+        }
+      ],
+      "1": [],
+      "2": [
+        {
+          "type": "living",
+          "owner": "F3",
+          "span": [
+            6.0,
+            12.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "F3",
+          "span": [
+            13.0,
+            18.0
+          ],
+          "depth": 2
+        }
+      ],
+      "3": [
+        {
+          "type": "living",
+          "owner": "S2",
+          "span": [
+            22.0,
+            28.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "S2",
+          "span": [
+            13.0,
+            19.0
+          ],
+          "depth": 2.5
+        }
+      ],
+      "4": [
+        {
+          "type": "living",
+          "owner": "F4",
+          "span": [
+            22.0,
+            28.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "F4",
+          "span": [
+            12.0,
+            17.0
+          ],
+          "depth": 2
+        }
+      ],
+      "5": [],
+      "6": [
+        {
+          "type": "living",
+          "owner": "F2",
+          "span": [
+            6.0,
+            12.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "F2",
+          "span": [
+            13.0,
+            18.0
+          ],
+          "depth": 2
+        }
+      ],
+      "7": [
+        {
+          "type": "living",
+          "owner": "S1",
+          "span": [
+            22.0,
+            28.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "S1",
+          "span": [
+            13.0,
+            19.0
+          ],
+          "depth": 2.5
+        }
+      ]
+    },
+    "penthouse": {
+      "0": [
+        {
+          "type": "living",
+          "owner": "P1",
+          "span": [
+            0.0,
+            10.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "P1",
+          "span": [
+            12.0,
+            22.0
+          ],
+          "depth": 2.4
+        }
+      ],
+      "1": [],
+      "2": [
+        {
+          "type": "living",
+          "owner": "P3",
+          "span": [
+            18.0,
+            28.0
+          ]
+        }
+      ],
+      "3": [
+        {
+          "type": "living",
+          "owner": "P4",
+          "span": [
+            25.0,
+            30.0
+          ]
+        },
+        {
+          "type": "living",
+          "owner": "P3",
+          "span": [
+            0.0,
+            5.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "P3",
+          "span": [
+            6.0,
+            16.0
+          ],
+          "depth": 2.4
+        }
+      ],
+      "4": [
+        {
+          "type": "living",
+          "owner": "P4",
+          "span": [
+            0.0,
+            10.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "P4",
+          "span": [
+            12.0,
+            22.0
+          ],
+          "depth": 2.4
+        }
+      ],
+      "5": [],
+      "6": [
+        {
+          "type": "living",
+          "owner": "P2",
+          "span": [
+            18.0,
+            28.0
+          ]
+        }
+      ],
+      "7": [
+        {
+          "type": "living",
+          "owner": "P1",
+          "span": [
+            25.0,
+            30.0
+          ]
+        },
+        {
+          "type": "living",
+          "owner": "P2",
+          "span": [
+            0.0,
+            5.0
+          ]
+        },
+        {
+          "type": "loggia",
+          "owner": "P2",
+          "span": [
+            6.0,
+            16.0
+          ],
+          "depth": 2.4
+        }
+      ]
+    }
+  },
+  "control_grid": {
+    "typical": {
+      "0": [
+        {
+          "a": 0.0,
+          "b": 1.7142857142857142,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.7142857142857142,
+          "b": 3.4285714285714284,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.4285714285714284,
+          "b": 5.142857142857142,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 5.142857142857142,
+          "b": 6.857142857142857,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.857142857142857,
+          "b": 8.571428571428571,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 8.571428571428571,
+          "b": 10.285714285714285,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 10.285714285714285,
+          "b": 12.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.0,
+          "b": 13.666666666666666,
+          "type": "loggia",
+          "owner": "F1"
+        },
+        {
+          "a": 13.666666666666666,
+          "b": 15.333333333333334,
+          "type": "loggia",
+          "owner": "F1"
+        },
+        {
+          "a": 15.333333333333334,
+          "b": 17.0,
+          "type": "loggia",
+          "owner": "F1"
+        },
+        {
+          "a": 17.0,
+          "b": 18.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 18.666666666666668,
+          "b": 20.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 20.333333333333332,
+          "b": 22.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 22.0,
+          "b": 23.5,
+          "type": "living",
+          "owner": "F1"
+        },
+        {
+          "a": 23.5,
+          "b": 25.0,
+          "type": "living",
+          "owner": "F1"
+        },
+        {
+          "a": 25.0,
+          "b": 26.5,
+          "type": "living",
+          "owner": "F1"
+        },
+        {
+          "a": 26.5,
+          "b": 28.0,
+          "type": "living",
+          "owner": "F1"
+        },
+        {
+          "a": 28.0,
+          "b": 29.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 29.333333333333332,
+          "b": 30.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 30.666666666666668,
+          "b": 32.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "1": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "2": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.0,
+          "b": 7.5,
+          "type": "living",
+          "owner": "F3"
+        },
+        {
+          "a": 7.5,
+          "b": 9.0,
+          "type": "living",
+          "owner": "F3"
+        },
+        {
+          "a": 9.0,
+          "b": 10.5,
+          "type": "living",
+          "owner": "F3"
+        },
+        {
+          "a": 10.5,
+          "b": 12.0,
+          "type": "living",
+          "owner": "F3"
+        },
+        {
+          "a": 12.0,
+          "b": 13.0,
+          "type": "pier",
+          "owner": null
+        },
+        {
+          "a": 13.0,
+          "b": 14.666666666666666,
+          "type": "loggia",
+          "owner": "F3"
+        },
+        {
+          "a": 14.666666666666666,
+          "b": 16.333333333333332,
+          "type": "loggia",
+          "owner": "F3"
+        },
+        {
+          "a": 16.333333333333332,
+          "b": 18.0,
+          "type": "loggia",
+          "owner": "F3"
+        },
+        {
+          "a": 18.0,
+          "b": 19.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 19.666666666666668,
+          "b": 21.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 21.333333333333332,
+          "b": 23.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.0,
+          "b": 24.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 24.666666666666668,
+          "b": 26.333333333333336,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 26.333333333333336,
+          "b": 28.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "3": [
+        {
+          "a": 0.0,
+          "b": 1.625,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.625,
+          "b": 3.25,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.25,
+          "b": 4.875,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.875,
+          "b": 6.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.5,
+          "b": 8.125,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 8.125,
+          "b": 9.75,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 9.75,
+          "b": 11.375,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 11.375,
+          "b": 13.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 13.0,
+          "b": 14.5,
+          "type": "loggia",
+          "owner": "S2"
+        },
+        {
+          "a": 14.5,
+          "b": 16.0,
+          "type": "loggia",
+          "owner": "S2"
+        },
+        {
+          "a": 16.0,
+          "b": 17.5,
+          "type": "loggia",
+          "owner": "S2"
+        },
+        {
+          "a": 17.5,
+          "b": 19.0,
+          "type": "loggia",
+          "owner": "S2"
+        },
+        {
+          "a": 19.0,
+          "b": 20.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 20.5,
+          "b": 22.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 22.0,
+          "b": 23.5,
+          "type": "living",
+          "owner": "S2"
+        },
+        {
+          "a": 23.5,
+          "b": 25.0,
+          "type": "living",
+          "owner": "S2"
+        },
+        {
+          "a": 25.0,
+          "b": 26.5,
+          "type": "living",
+          "owner": "S2"
+        },
+        {
+          "a": 26.5,
+          "b": 28.0,
+          "type": "living",
+          "owner": "S2"
+        },
+        {
+          "a": 28.0,
+          "b": 29.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 29.0,
+          "b": 30.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "4": [
+        {
+          "a": 0.0,
+          "b": 1.7142857142857142,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.7142857142857142,
+          "b": 3.4285714285714284,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.4285714285714284,
+          "b": 5.142857142857142,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 5.142857142857142,
+          "b": 6.857142857142857,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.857142857142857,
+          "b": 8.571428571428571,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 8.571428571428571,
+          "b": 10.285714285714285,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 10.285714285714285,
+          "b": 12.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.0,
+          "b": 13.666666666666666,
+          "type": "loggia",
+          "owner": "F4"
+        },
+        {
+          "a": 13.666666666666666,
+          "b": 15.333333333333334,
+          "type": "loggia",
+          "owner": "F4"
+        },
+        {
+          "a": 15.333333333333334,
+          "b": 17.0,
+          "type": "loggia",
+          "owner": "F4"
+        },
+        {
+          "a": 17.0,
+          "b": 18.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 18.666666666666668,
+          "b": 20.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 20.333333333333332,
+          "b": 22.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 22.0,
+          "b": 23.5,
+          "type": "living",
+          "owner": "F4"
+        },
+        {
+          "a": 23.5,
+          "b": 25.0,
+          "type": "living",
+          "owner": "F4"
+        },
+        {
+          "a": 25.0,
+          "b": 26.5,
+          "type": "living",
+          "owner": "F4"
+        },
+        {
+          "a": 26.5,
+          "b": 28.0,
+          "type": "living",
+          "owner": "F4"
+        },
+        {
+          "a": 28.0,
+          "b": 29.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 29.333333333333332,
+          "b": 30.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 30.666666666666668,
+          "b": 32.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "5": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "6": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.0,
+          "b": 7.5,
+          "type": "living",
+          "owner": "F2"
+        },
+        {
+          "a": 7.5,
+          "b": 9.0,
+          "type": "living",
+          "owner": "F2"
+        },
+        {
+          "a": 9.0,
+          "b": 10.5,
+          "type": "living",
+          "owner": "F2"
+        },
+        {
+          "a": 10.5,
+          "b": 12.0,
+          "type": "living",
+          "owner": "F2"
+        },
+        {
+          "a": 12.0,
+          "b": 13.0,
+          "type": "pier",
+          "owner": null
+        },
+        {
+          "a": 13.0,
+          "b": 14.666666666666666,
+          "type": "loggia",
+          "owner": "F2"
+        },
+        {
+          "a": 14.666666666666666,
+          "b": 16.333333333333332,
+          "type": "loggia",
+          "owner": "F2"
+        },
+        {
+          "a": 16.333333333333332,
+          "b": 18.0,
+          "type": "loggia",
+          "owner": "F2"
+        },
+        {
+          "a": 18.0,
+          "b": 19.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 19.666666666666668,
+          "b": 21.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 21.333333333333332,
+          "b": 23.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.0,
+          "b": 24.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 24.666666666666668,
+          "b": 26.333333333333336,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 26.333333333333336,
+          "b": 28.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "7": [
+        {
+          "a": 0.0,
+          "b": 1.625,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.625,
+          "b": 3.25,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.25,
+          "b": 4.875,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.875,
+          "b": 6.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 6.5,
+          "b": 8.125,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 8.125,
+          "b": 9.75,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 9.75,
+          "b": 11.375,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 11.375,
+          "b": 13.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 13.0,
+          "b": 14.5,
+          "type": "loggia",
+          "owner": "S1"
+        },
+        {
+          "a": 14.5,
+          "b": 16.0,
+          "type": "loggia",
+          "owner": "S1"
+        },
+        {
+          "a": 16.0,
+          "b": 17.5,
+          "type": "loggia",
+          "owner": "S1"
+        },
+        {
+          "a": 17.5,
+          "b": 19.0,
+          "type": "loggia",
+          "owner": "S1"
+        },
+        {
+          "a": 19.0,
+          "b": 20.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 20.5,
+          "b": 22.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 22.0,
+          "b": 23.5,
+          "type": "living",
+          "owner": "S1"
+        },
+        {
+          "a": 23.5,
+          "b": 25.0,
+          "type": "living",
+          "owner": "S1"
+        },
+        {
+          "a": 25.0,
+          "b": 26.5,
+          "type": "living",
+          "owner": "S1"
+        },
+        {
+          "a": 26.5,
+          "b": 28.0,
+          "type": "living",
+          "owner": "S1"
+        },
+        {
+          "a": 28.0,
+          "b": 29.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 29.0,
+          "b": 30.0,
+          "type": "vision",
+          "owner": null
+        }
+      ]
+    },
+    "penthouse": {
+      "0": [
+        {
+          "a": 0.0,
+          "b": 1.6666666666666667,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 1.6666666666666667,
+          "b": 3.3333333333333335,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 3.3333333333333335,
+          "b": 5.0,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 5.0,
+          "b": 6.666666666666667,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 6.666666666666667,
+          "b": 8.333333333333334,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 8.333333333333334,
+          "b": 10.0,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 10.0,
+          "b": 11.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 11.0,
+          "b": 12.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.0,
+          "b": 13.666666666666666,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 13.666666666666666,
+          "b": 15.333333333333334,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 15.333333333333334,
+          "b": 17.0,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 17.0,
+          "b": 18.666666666666668,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 18.666666666666668,
+          "b": 20.333333333333336,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 20.333333333333336,
+          "b": 22.0,
+          "type": "loggia",
+          "owner": "P1"
+        },
+        {
+          "a": 22.0,
+          "b": 23.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.666666666666668,
+          "b": 25.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 25.333333333333332,
+          "b": 27.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 27.0,
+          "b": 28.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 28.666666666666668,
+          "b": 30.333333333333336,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 30.333333333333336,
+          "b": 32.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "1": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "2": [
+        {
+          "a": 0.0,
+          "b": 1.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.8,
+          "b": 3.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.6,
+          "b": 5.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 5.4,
+          "b": 7.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 7.2,
+          "b": 9.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 9.0,
+          "b": 10.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 10.8,
+          "b": 12.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.6,
+          "b": 14.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 14.4,
+          "b": 16.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 16.2,
+          "b": 18.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 18.0,
+          "b": 19.666666666666668,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 19.666666666666668,
+          "b": 21.333333333333332,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 21.333333333333332,
+          "b": 23.0,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 23.0,
+          "b": 24.666666666666668,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 24.666666666666668,
+          "b": 26.333333333333336,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 26.333333333333336,
+          "b": 28.0,
+          "type": "living",
+          "owner": "P3"
+        }
+      ],
+      "3": [
+        {
+          "a": 0.0,
+          "b": 1.6666666666666667,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 1.6666666666666667,
+          "b": 3.3333333333333335,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 3.3333333333333335,
+          "b": 5.0,
+          "type": "living",
+          "owner": "P3"
+        },
+        {
+          "a": 5.0,
+          "b": 6.0,
+          "type": "pier",
+          "owner": null
+        },
+        {
+          "a": 6.0,
+          "b": 7.666666666666667,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 7.666666666666667,
+          "b": 9.333333333333334,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 9.333333333333334,
+          "b": 11.0,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 11.0,
+          "b": 12.666666666666668,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 12.666666666666668,
+          "b": 14.333333333333334,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 14.333333333333334,
+          "b": 16.0,
+          "type": "loggia",
+          "owner": "P3"
+        },
+        {
+          "a": 16.0,
+          "b": 17.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 17.8,
+          "b": 19.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 19.6,
+          "b": 21.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 21.4,
+          "b": 23.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.2,
+          "b": 25.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 25.0,
+          "b": 26.666666666666668,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 26.666666666666668,
+          "b": 28.333333333333332,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 28.333333333333332,
+          "b": 30.0,
+          "type": "living",
+          "owner": "P4"
+        }
+      ],
+      "4": [
+        {
+          "a": 0.0,
+          "b": 1.6666666666666667,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 1.6666666666666667,
+          "b": 3.3333333333333335,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 3.3333333333333335,
+          "b": 5.0,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 5.0,
+          "b": 6.666666666666667,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 6.666666666666667,
+          "b": 8.333333333333334,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 8.333333333333334,
+          "b": 10.0,
+          "type": "living",
+          "owner": "P4"
+        },
+        {
+          "a": 10.0,
+          "b": 11.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 11.0,
+          "b": 12.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.0,
+          "b": 13.666666666666666,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 13.666666666666666,
+          "b": 15.333333333333334,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 15.333333333333334,
+          "b": 17.0,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 17.0,
+          "b": 18.666666666666668,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 18.666666666666668,
+          "b": 20.333333333333336,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 20.333333333333336,
+          "b": 22.0,
+          "type": "loggia",
+          "owner": "P4"
+        },
+        {
+          "a": 22.0,
+          "b": 23.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.666666666666668,
+          "b": 25.333333333333332,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 25.333333333333332,
+          "b": 27.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 27.0,
+          "b": 28.666666666666668,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 28.666666666666668,
+          "b": 30.333333333333336,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 30.333333333333336,
+          "b": 32.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "5": [
+        {
+          "a": 0.0,
+          "b": 1.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.5,
+          "b": 3.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.0,
+          "b": 4.5,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 4.5,
+          "b": 6.0,
+          "type": "vision",
+          "owner": null
+        }
+      ],
+      "6": [
+        {
+          "a": 0.0,
+          "b": 1.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 1.8,
+          "b": 3.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 3.6,
+          "b": 5.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 5.4,
+          "b": 7.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 7.2,
+          "b": 9.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 9.0,
+          "b": 10.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 10.8,
+          "b": 12.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 12.6,
+          "b": 14.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 14.4,
+          "b": 16.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 16.2,
+          "b": 18.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 18.0,
+          "b": 19.666666666666668,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 19.666666666666668,
+          "b": 21.333333333333332,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 21.333333333333332,
+          "b": 23.0,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 23.0,
+          "b": 24.666666666666668,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 24.666666666666668,
+          "b": 26.333333333333336,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 26.333333333333336,
+          "b": 28.0,
+          "type": "living",
+          "owner": "P2"
+        }
+      ],
+      "7": [
+        {
+          "a": 0.0,
+          "b": 1.6666666666666667,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 1.6666666666666667,
+          "b": 3.3333333333333335,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 3.3333333333333335,
+          "b": 5.0,
+          "type": "living",
+          "owner": "P2"
+        },
+        {
+          "a": 5.0,
+          "b": 6.0,
+          "type": "pier",
+          "owner": null
+        },
+        {
+          "a": 6.0,
+          "b": 7.666666666666667,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 7.666666666666667,
+          "b": 9.333333333333334,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 9.333333333333334,
+          "b": 11.0,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 11.0,
+          "b": 12.666666666666668,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 12.666666666666668,
+          "b": 14.333333333333334,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 14.333333333333334,
+          "b": 16.0,
+          "type": "loggia",
+          "owner": "P2"
+        },
+        {
+          "a": 16.0,
+          "b": 17.8,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 17.8,
+          "b": 19.6,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 19.6,
+          "b": 21.4,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 21.4,
+          "b": 23.2,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 23.2,
+          "b": 25.0,
+          "type": "vision",
+          "owner": null
+        },
+        {
+          "a": 25.0,
+          "b": 26.666666666666668,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 26.666666666666668,
+          "b": 28.333333333333332,
+          "type": "living",
+          "owner": "P1"
+        },
+        {
+          "a": 28.333333333333332,
+          "b": 30.0,
+          "type": "living",
+          "owner": "P1"
+        }
+      ]
+    }
+  },
+  "typical_panel_chord_min_max_m": [
+    1.0,
+    1.7142857142857153
+  ],
+  "view_cases": [
+    {
+      "tower": "B",
+      "owner": "F1",
+      "z": 75.35,
+      "eye_world": [
+        119.0,
+        103.5
+      ],
+      "outward_world": [
+        0.0,
+        -1.0
+      ],
+      "nominal_horizontal_cone_deg": 118.8,
+      "angular_samples": 241,
+      "screened_samples_by_tower": {
+        "A": 74,
+        "B": 0,
+        "C": 94,
+        "D": 0
+      },
+      "screened_union_samples": 168,
+      "clear_intervals_deg_from_normal": [
+        [
+          -22.8,
+          9.4
+        ],
+        [
+          56.4,
+          59.4
+        ]
+      ],
+      "method": "Plan silhouette intersections at one eye elevation; omits internal partitions, transparency, solar glare and distance weighting. Angle samples may overlap between occluders."
+    },
+    {
+      "tower": "B",
+      "owner": "S1",
+      "z": 75.35,
+      "eye_world": [
+        95.5,
+        107.0
+      ],
+      "outward_world": [
+        -1.0,
+        -0.0
+      ],
+      "nominal_horizontal_cone_deg": 118.8,
+      "angular_samples": 241,
+      "screened_samples_by_tower": {
+        "A": 76,
+        "B": 0,
+        "C": 0,
+        "D": 0
+      },
+      "screened_union_samples": 76,
+      "clear_intervals_deg_from_normal": [
+        [
+          -59.4,
+          21.8
+        ]
+      ],
+      "method": "Plan silhouette intersections at one eye elevation; omits internal partitions, transparency, solar glare and distance weighting. Angle samples may overlap between occluders."
+    },
+    {
+      "tower": "C",
+      "owner": "F1",
+      "z": 75.35,
+      "eye_world": [
+        169.0,
+        51.5
+      ],
+      "outward_world": [
+        -0.0,
+        1.0
+      ],
+      "nominal_horizontal_cone_deg": 118.8,
+      "angular_samples": 241,
+      "screened_samples_by_tower": {
+        "A": 0,
+        "B": 94,
+        "C": 0,
+        "D": 59
+      },
+      "screened_union_samples": 153,
+      "clear_intervals_deg_from_normal": [
+        [
+          -30.2,
+          9.4
+        ],
+        [
+          56.4,
+          59.4
+        ]
+      ],
+      "method": "Plan silhouette intersections at one eye elevation; omits internal partitions, transparency, solar glare and distance weighting. Angle samples may overlap between occluders."
+    },
+    {
+      "tower": "C",
+      "owner": "S1",
+      "z": 75.35,
+      "eye_world": [
+        192.5,
+        48.0
+      ],
+      "outward_world": [
+        1.0,
+        0.0
+      ],
+      "nominal_horizontal_cone_deg": 118.8,
+      "angular_samples": 241,
+      "screened_samples_by_tower": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 68
+      },
+      "screened_union_samples": 68,
+      "clear_intervals_deg_from_normal": [
+        [
+          -59.4,
+          25.7
+        ]
+      ],
+      "method": "Plan silhouette intersections at one eye elevation; omits internal partitions, transparency, solar glare and distance weighting. Angle samples may overlap between occluders."
+    }
+  ],
+  "site_orientations": "local X/Y only; geographic North not known",
+  "area_and_program": "R1/R2 duplex boundaries, openings, loggias and GFA retained",
+  "checks": [
+    {
+      "name": "92_per_tower",
+      "passed": true
+    },
+    {
+      "name": "192m_perimeter",
+      "passed": true
+    },
+    {
+      "name": "every_typical_living_and_loggia_touches_envelope",
+      "passed": true
+    },
+    {
+      "name": "all_segment_spans_cover_facade",
+      "passed": true
+    },
+    {
+      "name": "no_crown_over_160m",
+      "passed": true
+    }
+  ]
+}

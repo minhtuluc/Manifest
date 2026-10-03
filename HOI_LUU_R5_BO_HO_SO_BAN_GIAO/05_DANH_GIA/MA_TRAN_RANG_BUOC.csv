@@ -1,0 +1,11 @@
+﻿rule_group,status,constraint,required_impact_report
+H01–04,H,Đất/FAR/mật độ; limit căn hộ (B/C ≤40 tầng/160 m); mixed use; B1 mall A/D và riêng tư B/C,"Giới hạn, công năng, luồng người"
+B01–02,B,"Ngân sách 631.690,24; mật độ 38,83%; dự phòng FAR/mật độ",Diện tích từng gói và giả định FAR
+B03–06,B,"A/D center, loft, sàn, cao độ tầng, mái; kính D35 lùi 3 m; crown/đỉnh R6: A envelope +520, D +310 (chủ đầu tư quyết định)","Silhouette, sàn, drift/MEP, keys, tĩnh không"
+B07–08,B,B/C 92 duplex/tháp; footprint; void; loggia cả hai tầng,"Số căn, gross/net, view, lịch tầng"
+B09–11,B,Đế riêng; quảng trường; mall gross; hầm 5 tầng,"Sảnh/retail, lỗ mở, ram, kỹ thuật"
+B12,B/O,Quỹ lõi R2 và cấu hình thang thử,"Giếng, diện tích sử dụng, RTT/HC, kết cấu"
+P01–05,P,"A/D 8 gân, 160/112 panel; gân không thu mảnh (R6); vùng chuyển A90–A98/D56–D62; crown A 8 gân hội tụ + 32 fin, D 1 mũi về A + 23 fin trên pier","Tỷ lệ gân, lưới, chế tạo, giá, kính nhìn ra vùng chuyển"
+P06–08,P,"B/C nhịp 7,2 m; 8 gân; 124 panel; crown khung mở +159,90; vùng kết thúc L36 → đỉnh","Aperture, loggia, tầm nhìn, phòng, H02"
+P09–11,P/O,"Kính phẳng, palette, lam kỹ thuật cùng tông kính, chiếu sáng đèn lồng 1 : 0,6 : 0,3","Fit, khe, năng lượng, chói, BMU"
+O01–03,O,"Hệ chịu lực, lõi tối ưu, cấu tạo panel; khung thép crown R6, hầm gió, BMU crown, tĩnh không","Giả định, kiểm chứng và đầu ra chuyên ngành"

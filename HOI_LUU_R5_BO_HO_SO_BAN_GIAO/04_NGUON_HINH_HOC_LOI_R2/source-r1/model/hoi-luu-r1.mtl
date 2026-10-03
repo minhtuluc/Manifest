@@ -1,0 +1,10 @@
+newmtl glass_A
+Kd 0.38 0.54 0.63
+newmtl glass_D
+Kd 0.57 0.65 0.67
+newmtl silver
+Kd 0.78 0.80 0.79
+newmtl podium
+Kd 0.75 0.73 0.66
+newmtl residential
+Kd 0.61 0.66 0.65

@@ -1,0 +1,2769 @@
+{
+  "passed": 350,
+  "total": 350,
+  "checks": [
+    {
+      "id": "A001_geometry",
+      "pass": true,
+      "details": {
+        "area": 5799.999999999999,
+        "void": 300.0000000000008
+      }
+    },
+    {
+      "id": "A001_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A002_geometry",
+      "pass": true,
+      "details": {
+        "area": 5750.000000000002,
+        "void": 1950.0000000000005
+      }
+    },
+    {
+      "id": "A002_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A003_geometry",
+      "pass": true,
+      "details": {
+        "area": 5500.0,
+        "void": 499.99999999999966
+      }
+    },
+    {
+      "id": "A003_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A004_geometry",
+      "pass": true,
+      "details": {
+        "area": 5199.999999999996,
+        "void": 400.0000000000002
+      }
+    },
+    {
+      "id": "A004_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A005_geometry",
+      "pass": true,
+      "details": {
+        "area": 4899.999999999998,
+        "void": 300.0000000000003
+      }
+    },
+    {
+      "id": "A005_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A006_geometry",
+      "pass": true,
+      "details": {
+        "area": 4599.999999999998,
+        "void": 299.99999999999994
+      }
+    },
+    {
+      "id": "A006_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A007_geometry",
+      "pass": true,
+      "details": {
+        "area": 4359.570584591143,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A007_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A008_geometry",
+      "pass": true,
+      "details": {
+        "area": 4342.742786378888,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A008_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A009_geometry",
+      "pass": true,
+      "details": {
+        "area": 4327.071262145239,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A009_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A010_geometry",
+      "pass": true,
+      "details": {
+        "area": 4310.010801980653,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A010_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A011_geometry",
+      "pass": true,
+      "details": {
+        "area": 4291.929219044213,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A011_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A012_geometry",
+      "pass": true,
+      "details": {
+        "area": 4273.034724086257,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A012_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A013_geometry",
+      "pass": true,
+      "details": {
+        "area": 4253.463940512614,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A013_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A014_geometry",
+      "pass": true,
+      "details": {
+        "area": 4233.31455581196,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A014_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A015_geometry",
+      "pass": true,
+      "details": {
+        "area": 4212.660499589342,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A015_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A016_geometry",
+      "pass": true,
+      "details": {
+        "area": 4191.560035775959,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A016_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A017_geometry",
+      "pass": true,
+      "details": {
+        "area": 4170.060501158801,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A017_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A018_geometry",
+      "pass": true,
+      "details": {
+        "area": 4148.2012774714985,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A018_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A019_geometry",
+      "pass": true,
+      "details": {
+        "area": 4126.01575647577,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A019_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A020_geometry",
+      "pass": true,
+      "details": {
+        "area": 4103.53269474565,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A020_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A021_geometry",
+      "pass": true,
+      "details": {
+        "area": 4080.7771800566693,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A021_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A022_geometry",
+      "pass": true,
+      "details": {
+        "area": 4057.7713405105546,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A022_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A023_geometry",
+      "pass": true,
+      "details": {
+        "area": 4034.5348832034106,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A023_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A024_geometry",
+      "pass": true,
+      "details": {
+        "area": 4011.085501730038,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A024_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A025_geometry",
+      "pass": true,
+      "details": {
+        "area": 3987.4391814969385,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A025_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A026_geometry",
+      "pass": true,
+      "details": {
+        "area": 3963.610462088627,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A026_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A027_geometry",
+      "pass": true,
+      "details": {
+        "area": 3939.612640936764,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A027_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A028_geometry",
+      "pass": true,
+      "details": {
+        "area": 3915.457938936069,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A028_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A029_geometry",
+      "pass": true,
+      "details": {
+        "area": 3891.1576367088082,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A029_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A030_geometry",
+      "pass": true,
+      "details": {
+        "area": 3866.7221878309233,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A030_core",
+      "pass": true,
+      "details": {
+        "core_area": 1088.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A031_geometry",
+      "pass": true,
+      "details": {
+        "area": 3842.1613137605787,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A031_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A032_geometry",
+      "pass": true,
+      "details": {
+        "area": 3808.483372051972,
+        "void": 96.0
+      }
+    },
+    {
+      "id": "A032_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A033_geometry",
+      "pass": true,
+      "details": {
+        "area": 3774.610269997776,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A033_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A034_geometry",
+      "pass": true,
+      "details": {
+        "area": 3749.6573292491794,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A034_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A035_geometry",
+      "pass": true,
+      "details": {
+        "area": 3724.6171389337514,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A035_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A036_geometry",
+      "pass": true,
+      "details": {
+        "area": 3699.496466547005,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A036_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A037_geometry",
+      "pass": true,
+      "details": {
+        "area": 3674.301712291937,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A037_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A038_geometry",
+      "pass": true,
+      "details": {
+        "area": 3649.038939742068,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A038_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A039_geometry",
+      "pass": true,
+      "details": {
+        "area": 3623.713902966043,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A039_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A040_geometry",
+      "pass": true,
+      "details": {
+        "area": 3598.3320706270774,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A040_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A041_geometry",
+      "pass": true,
+      "details": {
+        "area": 3572.8986474832313,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A041_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A042_geometry",
+      "pass": true,
+      "details": {
+        "area": 3547.4185936440504,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A042_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A043_geometry",
+      "pass": true,
+      "details": {
+        "area": 3521.8966418820887,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A043_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A044_geometry",
+      "pass": true,
+      "details": {
+        "area": 3496.3373132510446,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A044_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A045_geometry",
+      "pass": true,
+      "details": {
+        "area": 3470.7449312240306,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A045_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A046_geometry",
+      "pass": true,
+      "details": {
+        "area": 3445.123634533711,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A046_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A047_geometry",
+      "pass": true,
+      "details": {
+        "area": 3419.47738886975,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A047_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A048_geometry",
+      "pass": true,
+      "details": {
+        "area": 3393.809997567129,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A048_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A049_geometry",
+      "pass": true,
+      "details": {
+        "area": 3368.1251114003144,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A049_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A050_geometry",
+      "pass": true,
+      "details": {
+        "area": 3342.4262375828607,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A050_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A051_geometry",
+      "pass": true,
+      "details": {
+        "area": 3316.71674805885,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A051_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A052_geometry",
+      "pass": true,
+      "details": {
+        "area": 3290.9998871613634,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A052_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A053_geometry",
+      "pass": true,
+      "details": {
+        "area": 3265.2787787037764,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A053_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A054_geometry",
+      "pass": true,
+      "details": {
+        "area": 3239.556432561353,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A054_core",
+      "pass": true,
+      "details": {
+        "core_area": 840.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A055_geometry",
+      "pass": true,
+      "details": {
+        "area": 3213.835750793829,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A055_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A056_geometry",
+      "pass": true,
+      "details": {
+        "area": 3178.7698193597685,
+        "void": 96.0
+      }
+    },
+    {
+      "id": "A056_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A057_geometry",
+      "pass": true,
+      "details": {
+        "area": 3143.7189889987903,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A057_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A058_geometry",
+      "pass": true,
+      "details": {
+        "area": 3118.0284201967033,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A058_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A059_geometry",
+      "pass": true,
+      "details": {
+        "area": 3092.3519382567974,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A059_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A060_geometry",
+      "pass": true,
+      "details": {
+        "area": 3066.6919272470595,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A060_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A061_geometry",
+      "pass": true,
+      "details": {
+        "area": 3041.050695543306,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A061_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A062_geometry",
+      "pass": true,
+      "details": {
+        "area": 3015.4304795770604,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A062_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A063_geometry",
+      "pass": true,
+      "details": {
+        "area": 2989.8334473798263,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A063_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A064_geometry",
+      "pass": true,
+      "details": {
+        "area": 2964.2616788221007,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A064_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A065_geometry",
+      "pass": true,
+      "details": {
+        "area": 2938.717178532602,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A065_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A066_geometry",
+      "pass": true,
+      "details": {
+        "area": 2913.20192779102,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A066_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A067_geometry",
+      "pass": true,
+      "details": {
+        "area": 2887.7178523555644,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A067_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A068_geometry",
+      "pass": true,
+      "details": {
+        "area": 2862.266824772617,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A068_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A069_geometry",
+      "pass": true,
+      "details": {
+        "area": 2836.850666986311,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A069_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A070_geometry",
+      "pass": true,
+      "details": {
+        "area": 2811.47115282852,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A070_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A071_geometry",
+      "pass": true,
+      "details": {
+        "area": 2786.1300103971316,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A071_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A072_geometry",
+      "pass": true,
+      "details": {
+        "area": 2760.82892432967,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A072_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A073_geometry",
+      "pass": true,
+      "details": {
+        "area": 2735.5695379785643,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A073_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A074_geometry",
+      "pass": true,
+      "details": {
+        "area": 2710.3534554940293,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A074_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A075_geometry",
+      "pass": true,
+      "details": {
+        "area": 2685.182243819696,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A075_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A076_geometry",
+      "pass": true,
+      "details": {
+        "area": 2660.057434605894,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A076_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A077_geometry",
+      "pass": true,
+      "details": {
+        "area": 2634.980526044901,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A077_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A078_geometry",
+      "pass": true,
+      "details": {
+        "area": 2609.9529846321334,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A078_core",
+      "pass": true,
+      "details": {
+        "core_area": 728.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A079_geometry",
+      "pass": true,
+      "details": {
+        "area": 2584.9762468569697,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A079_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A080_geometry",
+      "pass": true,
+      "details": {
+        "area": 2551.0014725005512,
+        "void": 96.0
+      }
+    },
+    {
+      "id": "A080_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A081_geometry",
+      "pass": true,
+      "details": {
+        "area": 2517.1272734841914,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A081_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A082_geometry",
+      "pass": true,
+      "details": {
+        "area": 2492.352090357416,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A082_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A083_geometry",
+      "pass": true,
+      "details": {
+        "area": 2467.6341428666187,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A083_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A084_geometry",
+      "pass": true,
+      "details": {
+        "area": 2442.9747250581017,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A084_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A085_geometry",
+      "pass": true,
+      "details": {
+        "area": 2418.375110738734,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A085_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A086_geometry",
+      "pass": true,
+      "details": {
+        "area": 2393.8365547154035,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A086_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A087_geometry",
+      "pass": true,
+      "details": {
+        "area": 2369.360293985198,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A087_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A088_geometry",
+      "pass": true,
+      "details": {
+        "area": 2344.9475488777534,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A088_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A089_geometry",
+      "pass": true,
+      "details": {
+        "area": 2320.5995242094627,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A089_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A090_geometry",
+      "pass": true,
+      "details": {
+        "area": 2296.3174395919386,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A090_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A091_geometry",
+      "pass": true,
+      "details": {
+        "area": 2272.1024965268116,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A091_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A092_geometry",
+      "pass": true,
+      "details": {
+        "area": 2247.9558595387853,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A092_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A093_geometry",
+      "pass": true,
+      "details": {
+        "area": 2223.878681521796,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A093_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A094_geometry",
+      "pass": true,
+      "details": {
+        "area": 2199.8721046216097,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A094_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A095_geometry",
+      "pass": true,
+      "details": {
+        "area": 2175.937261078773,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A095_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A096_geometry",
+      "pass": true,
+      "details": {
+        "area": 2152.0752740328753,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A096_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A097_geometry",
+      "pass": true,
+      "details": {
+        "area": 2128.2872582888886,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A097_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A098_geometry",
+      "pass": true,
+      "details": {
+        "area": 2104.574321046455,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "A098_core",
+      "pass": true,
+      "details": {
+        "core_area": 576.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D001_geometry",
+      "pass": true,
+      "details": {
+        "area": 4500.000000000003,
+        "void": 99.9999999999988
+      }
+    },
+    {
+      "id": "D001_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D002_geometry",
+      "pass": true,
+      "details": {
+        "area": 4449.999999999998,
+        "void": 800.0000000000006
+      }
+    },
+    {
+      "id": "D002_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D003_geometry",
+      "pass": true,
+      "details": {
+        "area": 4250.0,
+        "void": 200.00000000000085
+      }
+    },
+    {
+      "id": "D003_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D004_geometry",
+      "pass": true,
+      "details": {
+        "area": 3900.000000000001,
+        "void": 150.00000000000026
+      }
+    },
+    {
+      "id": "D004_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D005_geometry",
+      "pass": true,
+      "details": {
+        "area": 3449.9999999999995,
+        "void": 149.9999999999998
+      }
+    },
+    {
+      "id": "D005_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D006_geometry",
+      "pass": true,
+      "details": {
+        "area": 3000.000000000001,
+        "void": 150.00000000000114
+      }
+    },
+    {
+      "id": "D006_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D007_geometry",
+      "pass": true,
+      "details": {
+        "area": 2756.0859566002814,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D007_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D008_geometry",
+      "pass": true,
+      "details": {
+        "area": 2754.784224842971,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D008_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D009_geometry",
+      "pass": true,
+      "details": {
+        "area": 2751.8175464536093,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D009_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D010_geometry",
+      "pass": true,
+      "details": {
+        "area": 2747.01202702044,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D010_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D011_geometry",
+      "pass": true,
+      "details": {
+        "area": 2740.299929297059,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D011_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D012_geometry",
+      "pass": true,
+      "details": {
+        "area": 2731.632590753706,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D012_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D013_geometry",
+      "pass": true,
+      "details": {
+        "area": 2720.9731417780604,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D013_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D014_geometry",
+      "pass": true,
+      "details": {
+        "area": 2708.293085893835,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D014_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D015_geometry",
+      "pass": true,
+      "details": {
+        "area": 2693.5704083562314,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D015_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D016_geometry",
+      "pass": true,
+      "details": {
+        "area": 2676.788419171633,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D016_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D017_geometry",
+      "pass": true,
+      "details": {
+        "area": 2657.9349946342495,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D017_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D018_geometry",
+      "pass": true,
+      "details": {
+        "area": 2637.0023765771493,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D018_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D019_geometry",
+      "pass": true,
+      "details": {
+        "area": 2613.987089903599,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D019_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D020_geometry",
+      "pass": true,
+      "details": {
+        "area": 2588.8885135224555,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D020_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D021_geometry",
+      "pass": true,
+      "details": {
+        "area": 2552.6411806105057,
+        "void": 60.0
+      }
+    },
+    {
+      "id": "D021_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D022_geometry",
+      "pass": true,
+      "details": {
+        "area": 2522.728443851259,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D022_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D023_geometry",
+      "pass": true,
+      "details": {
+        "area": 2490.7504860371023,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D023_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D024_geometry",
+      "pass": true,
+      "details": {
+        "area": 2456.719134923269,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D024_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D025_geometry",
+      "pass": true,
+      "details": {
+        "area": 2420.648918501683,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D025_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D026_geometry",
+      "pass": true,
+      "details": {
+        "area": 2382.5594533832545,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D026_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D027_geometry",
+      "pass": true,
+      "details": {
+        "area": 2342.472530814561,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D027_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D028_geometry",
+      "pass": true,
+      "details": {
+        "area": 2300.4110547889068,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D028_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D029_geometry",
+      "pass": true,
+      "details": {
+        "area": 2256.398278719272,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D029_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D030_geometry",
+      "pass": true,
+      "details": {
+        "area": 2210.459442841868,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D030_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D031_geometry",
+      "pass": true,
+      "details": {
+        "area": 2162.6290534869754,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D031_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D032_geometry",
+      "pass": true,
+      "details": {
+        "area": 2112.942066237125,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D032_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D033_geometry",
+      "pass": true,
+      "details": {
+        "area": 2061.4333305627633,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D033_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D034_geometry",
+      "pass": true,
+      "details": {
+        "area": 2008.1363204361771,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D034_core",
+      "pass": true,
+      "details": {
+        "core_area": 624.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D035_geometry",
+      "pass": true,
+      "details": {
+        "area": 1929.9366393004043,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D035_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D036_geometry",
+      "pass": true,
+      "details": {
+        "area": 1916.4682472393797,
+        "void": 80.0
+      }
+    },
+    {
+      "id": "D036_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D037_geometry",
+      "pass": true,
+      "details": {
+        "area": 1907.1727822821035,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D037_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D038_geometry",
+      "pass": true,
+      "details": {
+        "area": 1897.628591333204,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D038_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D039_geometry",
+      "pass": true,
+      "details": {
+        "area": 1887.9100905383018,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D039_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D040_geometry",
+      "pass": true,
+      "details": {
+        "area": 1878.0592380593812,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D040_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D041_geometry",
+      "pass": true,
+      "details": {
+        "area": 1868.1032359989656,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D041_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D042_geometry",
+      "pass": true,
+      "details": {
+        "area": 1858.0612604810515,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D042_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D043_geometry",
+      "pass": true,
+      "details": {
+        "area": 1847.9476135759937,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D043_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D044_geometry",
+      "pass": true,
+      "details": {
+        "area": 1837.7734051642228,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D044_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D045_geometry",
+      "pass": true,
+      "details": {
+        "area": 1827.5475355515864,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D045_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D046_geometry",
+      "pass": true,
+      "details": {
+        "area": 1817.2773094175636,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D046_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D047_geometry",
+      "pass": true,
+      "details": {
+        "area": 1806.9688398502174,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D047_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D048_geometry",
+      "pass": true,
+      "details": {
+        "area": 1796.6273254805012,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D048_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D049_geometry",
+      "pass": true,
+      "details": {
+        "area": 1782.430284631005,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D049_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D050_geometry",
+      "pass": true,
+      "details": {
+        "area": 1772.027353461573,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D050_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D051_geometry",
+      "pass": true,
+      "details": {
+        "area": 1761.604370655199,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D051_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D052_geometry",
+      "pass": true,
+      "details": {
+        "area": 1751.1642654329225,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D052_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D053_geometry",
+      "pass": true,
+      "details": {
+        "area": 1740.7096652484588,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D053_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D054_geometry",
+      "pass": true,
+      "details": {
+        "area": 1730.2429456974364,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D054_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D055_geometry",
+      "pass": true,
+      "details": {
+        "area": 1719.7663756779184,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D055_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D056_geometry",
+      "pass": true,
+      "details": {
+        "area": 1709.2819759841311,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D056_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D057_geometry",
+      "pass": true,
+      "details": {
+        "area": 1698.791549775876,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D057_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D058_geometry",
+      "pass": true,
+      "details": {
+        "area": 1688.2967570071382,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D058_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D059_geometry",
+      "pass": true,
+      "details": {
+        "area": 1677.7991224503376,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D059_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D060_geometry",
+      "pass": true,
+      "details": {
+        "area": 1667.3000061278362,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D060_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D061_geometry",
+      "pass": true,
+      "details": {
+        "area": 1656.8007189104549,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D061_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "D062_geometry",
+      "pass": true,
+      "details": {
+        "area": 1646.3024946668354,
+        "void": 0.0
+      }
+    },
+    {
+      "id": "D062_core",
+      "pass": true,
+      "details": {
+        "core_area": 384.0,
+        "overlap_void": 0.0
+      }
+    },
+    {
+      "id": "A_GFA",
+      "pass": true,
+      "details": 299999.99999999994
+    },
+    {
+      "id": "A_pod_GFA",
+      "pass": true,
+      "details": 27999.999999999993
+    },
+    {
+      "id": "A_podium_contains_body",
+      "pass": true,
+      "details": "Outer envelopes only: reserved atria must be framed; no large unsupported tower overhang"
+    },
+    {
+      "id": "A_projection_within_ground",
+      "pass": true,
+      "details": "All floor projections inside ground envelope"
+    },
+    {
+      "id": "A_vertical_continuity",
+      "pass": true,
+      "details": 452.39999999999935
+    },
+    {
+      "id": "D_GFA",
+      "pass": true,
+      "details": 119999.99999999999
+    },
+    {
+      "id": "D_pod_GFA",
+      "pass": true,
+      "details": 22000.0
+    },
+    {
+      "id": "D_podium_contains_body",
+      "pass": true,
+      "details": "Outer envelopes only: reserved atria must be framed; no large unsupported tower overhang"
+    },
+    {
+      "id": "D_projection_within_ground",
+      "pass": true,
+      "details": "All floor projections inside ground envelope"
+    },
+    {
+      "id": "D_vertical_continuity",
+      "pass": true,
+      "details": 269.4500000000003
+    },
+    {
+      "id": "A_in_site",
+      "pass": true,
+      "details": [
+        14.0,
+        13.658387480858124,
+        100.0,
+        84.34161251914188
+      ]
+    },
+    {
+      "id": "D_in_site",
+      "pass": true,
+      "details": [
+        193.0,
+        73.74200138785528,
+        271.0,
+        134.25799861214472
+      ]
+    },
+    {
+      "id": "B_in_site",
+      "pass": true,
+      "details": [
+        87.0,
+        96.0,
+        162.0,
+        144.0
+      ]
+    },
+    {
+      "id": "C_in_site",
+      "pass": true,
+      "details": [
+        128.0,
+        12.0,
+        205.0,
+        62.0
+      ]
+    },
+    {
+      "id": "pod_gap_AD",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 95.14814929090323
+      }
+    },
+    {
+      "id": "pod_gap_AB",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 16.18666092199384
+      }
+    },
+    {
+      "id": "pod_gap_AC",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 28.0
+      }
+    },
+    {
+      "id": "pod_gap_DB",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 30.999999999999996
+      }
+    },
+    {
+      "id": "pod_gap_DC",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 20.687343576793843
+      }
+    },
+    {
+      "id": "pod_gap_BC",
+      "pass": true,
+      "details": {
+        "clear_distance_m": 34.0
+      }
+    },
+    {
+      "id": "mall_area",
+      "pass": true,
+      "details": 13999.999999999996
+    },
+    {
+      "id": "mall_disconnected_BC",
+      "pass": true,
+      "details": "BC footprint exclusion plus 6 m plan buffer"
+    },
+    {
+      "id": "mall_connected",
+      "pass": true,
+      "details": "Polygon"
+    },
+    {
+      "id": "ramp_reserve_0",
+      "pass": true,
+      "details": {
+        "area": 1080.0,
+        "mall_overlap": 0.0
+      }
+    },
+    {
+      "id": "ramp_reserve_1",
+      "pass": true,
+      "details": {
+        "area": 1080.0,
+        "mall_overlap": 0.0
+      }
+    },
+    {
+      "id": "loading_in_mall_0",
+      "pass": true,
+      "details": 240.0
+    },
+    {
+      "id": "loading_in_mall_1",
+      "pass": true,
+      "details": 204.0
+    },
+    {
+      "id": "density",
+      "pass": true,
+      "details": {
+        "footprint_including_400_allowance": 17756.0,
+        "ratio": 0.3883214871514489
+      }
+    },
+    {
+      "id": "FAR_budget",
+      "pass": true,
+      "details": {
+        "control_area": 631690.24,
+        "FAR_control": 13.814986112629851,
+        "headroom": 8459.76000000001
+      }
+    },
+    {
+      "id": "BC_source",
+      "pass": true,
+      "details": {
+        "units_per_tower": 92,
+        "units_both_towers": 184,
+        "residential_slab_area_per_tower": 54373.12,
+        "above_podium_slab_area_per_tower": 59845.12,
+        "crown_top": 158.7,
+        "common_per_level": 488,
+        "footprint": 1824
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "geometry_arithmetic_checks": 3035,
+  "traffic_groups": 17,
+  "floor_rows": 160,
+  "embedded_vector_drawings": 6,
+  "scope": "concept geometry and preliminary traffic screen only; no legal/structural/vendor validation"
+}

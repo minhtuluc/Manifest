@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="504pt" viewBox="0 0 1008 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-30T17:32:24.200827</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 1008 504 
+L 1008 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.48 384.767191 
+L 320.974382 384.767191 
+L 320.974382 124.272809 
+L 60.48 124.272809 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 89.42382 355.823371 
+L 263.086742 355.823371 
+L 263.086742 147.427865 
+L 89.42382 147.427865 
+z
+" clip-path="url(#p183adc5102)" style="fill: #8faeb7; stroke: #c7c7b9; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_1">
+    <path d="M 89.42382 251.625618 
+L 263.086742 251.625618 
+" clip-path="url(#p183adc5102)" style="fill: none; stroke: #dde1d6; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle" x="176.255281" y="251.617028" transform="rotate(-0 176.255281 251.617028)">Chỉ mối kính · không có sàn qua void</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="176.255281" y="182.160449" transform="rotate(-0 176.255281 182.160449)">Phòng khách cao 2 tầng</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 271.769888 150.546033 
+Q 271.769888 251.625768 271.769888 352.705504 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 269.969888 154.146033 
+L 271.769888 150.546033 
+L 273.569888 154.146033 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 273.569888 349.105504 
+L 271.769888 352.705504 
+L 269.969888 349.105504 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(284.397245 259.286101) rotate(-90)">7,20 m</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.48" y="111.272809" transform="rotate(-0 60.48 111.272809)">6 m · lỗ thông tầng</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 393.912809 421.980674 
+L 654.407191 421.980674 
+L 654.407191 87.059326 
+L 393.912809 87.059326 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 431.126292 384.767191 
+L 617.193708 384.767191 
+L 617.193708 116.830112 
+L 431.126292 116.830112 
+z
+" clip-path="url(#paae3ae3a97)" style="fill: #314c57; stroke: #c7c7b9; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 431.126292 381.045843 
+L 617.193708 381.045843 
+L 617.193708 340.111011 
+L 431.126292 340.111011 
+z
+" clip-path="url(#paae3ae3a97)" style="fill: #a9c1ba; opacity: 0.6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 431.126292 247.077303 
+L 617.193708 247.077303 
+L 617.193708 206.142472 
+L 431.126292 206.142472 
+z
+" clip-path="url(#paae3ae3a97)" style="fill: #a9c1ba; opacity: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_2">
+    <path d="M 431.126292 250.798652 
+L 617.193708 250.798652 
+" clip-path="url(#paae3ae3a97)" style="fill: none; stroke: #c7c7b9; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="524.16" y="198.699775" transform="rotate(-0 524.16 198.699775)">Loggia có sàn ở mỗi tầng</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="524.16" y="310.340225" transform="rotate(-0 524.16 310.340225)">Kính vào phòng lùi 2 m</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="393.912809" y="74.059326" transform="rotate(-0 393.912809 74.059326)">F · 5 × 2 m/tầng</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_9">
+    <path d="M 727.345618 401.04809 
+L 987.84 401.04809 
+L 987.84 107.99191 
+L 727.345618 107.99191 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 759.907416 368.486292 
+L 955.278202 368.486292 
+L 955.278202 134.041348 
+L 759.907416 134.041348 
+z
+" clip-path="url(#pcdd4217406)" style="fill: #314c57; stroke: #c7c7b9; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 759.907416 365.230112 
+L 955.278202 365.230112 
+L 955.278202 329.412135 
+L 759.907416 329.412135 
+z
+" clip-path="url(#pcdd4217406)" style="fill: #a9c1ba; opacity: 0.6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 759.907416 248.00764 
+L 955.278202 248.00764 
+L 955.278202 212.189663 
+L 759.907416 212.189663 
+z
+" clip-path="url(#pcdd4217406)" style="fill: #a9c1ba; opacity: 0.6"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="line2d_3">
+    <path d="M 759.907416 251.26382 
+L 955.278202 251.26382 
+" clip-path="url(#pcdd4217406)" style="fill: none; stroke: #c7c7b9; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="857.592809" y="205.677303" transform="rotate(-0 857.592809 205.677303)">Loggia có sàn ở mỗi tầng</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="857.592809" y="303.362697" transform="rotate(-0 857.592809 303.362697)">Kính vào phòng lùi 2.5 m</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="727.345618" y="94.99191" transform="rotate(-0 727.345618 94.99191)">S · 6 × 2.5 m/tầng</text>
+   </g>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start" x="60.48" y="23.85" transform="rotate(-0 60.48 23.85)">F04 · Mặt đứng một nhịp duplex: cửa khách và loggia</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #657575" x="35.28" y="491.4" transform="rotate(-0 35.28 491.4)">Khung hai tầng là lớp biểu đạt phía ngoài. Sàn/lan can của loggia giữ theo nguồn duplex; kính 6 m gồm nhiều tấm, chưa chốt chiều dày và cấu tạo.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p183adc5102">
+   <rect x="60.48" y="124.272809" width="260.494382" height="260.494382"/>
+  </clipPath>
+  <clipPath id="paae3ae3a97">
+   <rect x="393.912809" y="87.059326" width="260.494382" height="334.921348"/>
+  </clipPath>
+  <clipPath id="pcdd4217406">
+   <rect x="727.345618" y="107.99191" width="260.494382" height="293.05618"/>
+  </clipPath>
+ </defs>
+</svg>

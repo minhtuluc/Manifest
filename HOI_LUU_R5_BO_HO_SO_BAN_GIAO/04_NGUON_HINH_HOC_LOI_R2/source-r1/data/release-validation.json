@@ -1,0 +1,15 @@
+{
+  "geometry_checks": "350/350",
+  "floor_rows": 160,
+  "OBJ_objects": 100,
+  "OBJ_vertices": 58292,
+  "OBJ_faces": 54188,
+  "OBJ_finished_heights": {
+    "A": 480.0,
+    "D": 285.0
+  },
+  "embedded_drawings": 6,
+  "chapters": 10,
+  "python_syntax": "pass",
+  "Blender_execution": "not performed"
+}

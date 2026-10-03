@@ -1,0 +1,30 @@
+{
+  "revision": "R6-CROWN (on R5-HANDOVER)",
+  "date": "2026-09-30",
+  "status": "review proposal; R6 changes crowns/architectural tops/near-top facade only; slabs, floors, roofs, cores and GFA unchanged",
+  "sources": [
+    {
+      "name": "Catalog R1-R4",
+      "file": "01_HO_SO/CATALOG_NGUON_R1_R4.md",
+      "source_version": 2
+    },
+    {
+      "name": "A/D facade R3",
+      "file": "02_NGOAI_QUAN/AD_R3.html"
+    },
+    {
+      "name": "B/C facade R4",
+      "file": "02_NGOAI_QUAN/BC_R4.html"
+    },
+    {
+      "name": "Geometry/core R2",
+      "file": "04_NGUON_HINH_HOC_LOI_R2/data/geometry-r2.json"
+    },
+    {
+      "name": "Crown R6",
+      "file": "03_DU_LIEU_KIEM_SOAT/facade-crown-r6.json",
+      "viewer": "02_NGOAI_QUAN/CROWN_R6.html",
+      "build": "02_NGOAI_QUAN/scripts/build_crown_r6.py"
+    }
+  ]
+}

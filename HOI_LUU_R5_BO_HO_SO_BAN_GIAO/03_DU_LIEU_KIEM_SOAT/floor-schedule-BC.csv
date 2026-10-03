@@ -1,0 +1,41 @@
+﻿floor,z_m,height_m,top_m,program,duplex_module,is_upper,slab_control_m2,new_units
+1,0,6,6,Đế chung,,False,,0
+2,6,5.4,11.4,Đế chung,,False,,0
+3,11.4,5.4,16.8,Đế chung,,False,,0
+4,16.8,4.8,21.6,Đế chung,,False,,0
+5,21.6,4.8,26.4,Đế chung,,False,,0
+6,26.4,4.2,30.6,Clubhouse + lánh nạn + kỹ thuật,,False,1824,0
+7,30.6,3.6,34.2,Duplex điển hình — tầng dưới,1,False,1824,6
+8,34.2,3.6,37.8,Duplex điển hình — tầng trên,1,True,1576.0,0
+9,37.8,3.6,41.4,Duplex điển hình — tầng dưới,2,False,1824,6
+10,41.4,3.6,45.0,Duplex điển hình — tầng trên,2,True,1576.0,0
+11,45.0,3.6,48.6,Duplex điển hình — tầng dưới,3,False,1824,6
+12,48.6,3.6,52.2,Duplex điển hình — tầng trên,3,True,1576.0,0
+13,52.2,3.6,55.8,Duplex điển hình — tầng dưới,4,False,1824,6
+14,55.8,3.6,59.4,Duplex điển hình — tầng trên,4,True,1576.0,0
+15,59.4,3.6,63.0,Duplex điển hình — tầng dưới,5,False,1824,6
+16,63.0,3.6,66.6,Duplex điển hình — tầng trên,5,True,1576.0,0
+17,66.6,3.6,70.2,Duplex điển hình — tầng dưới,6,False,1824,6
+18,70.2,3.6,73.8,Duplex điển hình — tầng trên,6,True,1576.0,0
+19,73.8,3.6,77.4,Duplex điển hình — tầng dưới,7,False,1824,6
+20,77.4,3.6,81.0,Duplex điển hình — tầng trên,7,True,1576.0,0
+21,81.0,3.6,84.6,Duplex điển hình — tầng dưới,8,False,1824,6
+22,84.6,3.6,88.2,Duplex điển hình — tầng trên,8,True,1576.0,0
+23,88.2,4.2,92.4,Lánh nạn + kỹ thuật,,False,1824,0
+24,92.4,3.6,96.0,Duplex điển hình — tầng dưới,9,False,1824,6
+25,96.0,3.6,99.6,Duplex điển hình — tầng trên,9,True,1576.0,0
+26,99.6,3.6,103.2,Duplex điển hình — tầng dưới,10,False,1824,6
+27,103.2,3.6,106.8,Duplex điển hình — tầng trên,10,True,1576.0,0
+28,106.8,3.6,110.4,Duplex điển hình — tầng dưới,11,False,1824,6
+29,110.4,3.6,114.0,Duplex điển hình — tầng trên,11,True,1576.0,0
+30,114.0,3.6,117.6,Duplex điển hình — tầng dưới,12,False,1824,6
+31,117.6,3.6,121.2,Duplex điển hình — tầng trên,12,True,1576.0,0
+32,121.2,3.6,124.8,Duplex điển hình — tầng dưới,13,False,1824,6
+33,124.8,3.6,128.4,Duplex điển hình — tầng trên,13,True,1576.0,0
+34,128.4,3.6,132.0,Duplex điển hình — tầng dưới,14,False,1824,6
+35,132.0,3.6,135.6,Duplex điển hình — tầng trên,14,True,1576.0,0
+36,135.6,3.6,139.2,Penthouse duplex — tầng dưới,15,False,1824,4
+37,139.2,3.6,142.8,Penthouse duplex — tầng trên,15,True,1562.56,0
+38,142.8,3.6,146.4,Penthouse duplex — tầng dưới,16,False,1824,4
+39,146.4,3.6,150.0,Penthouse duplex — tầng trên,16,True,1562.56,0
+40,150.0,4.2,154.2,Kỹ thuật mái,,False,1824,0

@@ -1,0 +1,656 @@
+{
+  "revision": "R6-CROWN (on R5-HANDOVER)",
+  "self_exclusion": "manifest is not hashed inside itself",
+  "files": [
+    {
+      "path": "00_DOC_TRUOC.md",
+      "bytes": 4604,
+      "sha256": "324b5080927c2642378d36d8ca16024ad89de9f5aa8f0cd17e4ff7d3480ffba1"
+    },
+    {
+      "path": "PACKAGE_VALIDATION.json",
+      "bytes": 5889,
+      "sha256": "99027682204821e0cc0a6c3666c8b849af1f4d64aacbf28efb26d125b0995d58"
+    },
+    {
+      "path": "SOURCE_SNAPSHOT.json",
+      "bytes": 855,
+      "sha256": "e465894361f8110fc44ffa3890dccb0072f5347ad67fb6bddaaab821eda092e6"
+    },
+    {
+      "path": "01_HO_SO/CATALOG_NGUON_R1_R4.md",
+      "bytes": 42287,
+      "sha256": "0fe87e9c4b865c6e2a9b5d887bfdd5bbb249338f42234f7d66157c3a9e6e38b9"
+    },
+    {
+      "path": "01_HO_SO/HOI_LUU_R5_HO_SO_BAN_GIAO.md",
+      "bytes": 60237,
+      "sha256": "04e8baa5695ec2853eebf71fd212ced4603172ed0cceee67a220e5b3f78a5acd"
+    },
+    {
+      "path": "01_HO_SO/HOI_LUU_R5_HO_SO_BAN_GIAO.pdf",
+      "bytes": 1208975,
+      "sha256": "c100d177422ac872a699d33d1533e0d3dd26b5cde0fa4dbe1927d82a526ff194"
+    },
+    {
+      "path": "02_NGOAI_QUAN/AD_R3.html",
+      "bytes": 12067611,
+      "sha256": "1fa88f33f23d5ad203223d53fb113a1575c0f607794cc3ad9b81cbfde38bc6b1"
+    },
+    {
+      "path": "02_NGOAI_QUAN/BC_R4.html",
+      "bytes": 7868499,
+      "sha256": "83af1876ecc90a4f950a4eb0849287b27a7c3aeb797bac32b23e0ff7f62a0a10"
+    },
+    {
+      "path": "02_NGOAI_QUAN/CROWN_R6.html",
+      "bytes": 2047551,
+      "sha256": "26bd412dc3883bf70fc990f20c54f57c5afe86cc534d9dd037ef0b5dc9358095"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F01-options.svg",
+      "bytes": 1449496,
+      "sha256": "4db8dfffd3affe63917c9e116add30928e2c491391eb6038d82945d3e1fc32bc"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F02-elevations.svg",
+      "bytes": 974149,
+      "sha256": "d3de42ac6b4522a26db1dccf375007094afa1b560de74eaf8ce9cf23885545d1"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F03-panel-plan.svg",
+      "bytes": 83858,
+      "sha256": "f2db98529b742aa9e0d2cceaedd97e66e0c11152ceb026139734587ed70e2cfa"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F04-bay-organization.svg",
+      "bytes": 9688,
+      "sha256": "740151fbd5a83a488dd7dd4321bf91e284e4dd65731b08dcb22eab3c3dd1ab46"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F05-crowns.svg",
+      "bytes": 234043,
+      "sha256": "0cbbc1dc90b760a19ceb73834e24394614263ba699ac58b4055a043567b4c417"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F06-day-night.svg",
+      "bytes": 965249,
+      "sha256": "3241f89d434f06acd3cd522f1ed98ae6922efe64cb22686cce3e581021f1ed93"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/AD_R3/F07-coordinate-view.svg",
+      "bytes": 3531710,
+      "sha256": "13e2445c4a470fe399067dab2c3182149d2dca4cd6893fd84eab24a0177242e9"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BAN_GIAO/H01-tong-mat-bang.svg",
+      "bytes": 98970,
+      "sha256": "2dba9989529b5da617580715b98c1a11f4e42117430cfae0497db1125552d545"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BAN_GIAO/H02-khung-giao-dien.svg",
+      "bytes": 132630,
+      "sha256": "f74492a204cee3f8cd55cfaac8cbf719dec61ef37c968b5064993696fcfa1563"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F01-plan.svg",
+      "bytes": 37538,
+      "sha256": "1dd856b9d98254261b715429f33eb30af13e671bb73486f861e26098742736fa"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F02-options.svg",
+      "bytes": 77203,
+      "sha256": "c4aaba65e9975069063303794abb8ff59709627771604d09beda645e18669985"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F03-elevations.svg",
+      "bytes": 827204,
+      "sha256": "abd690d015d2deda25e4670dfa603aa0933eb1043fd541aa53b4227d399e1dbb"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F04-bay-section.svg",
+      "bytes": 7666,
+      "sha256": "6cb61c28c5989efabcebf04ff4e8ee0c6b7911f0911dff53cd17a377b0228f1d"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F05-ensemble.svg",
+      "bytes": 721647,
+      "sha256": "f9984ee0e39ad63fdc03b1b4707a0666f61284e9f5f7a36fdf8f756225517174"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F06-view.svg",
+      "bytes": 46156,
+      "sha256": "9af36b209c9f2f89ae75defb8a8d3caae5d822b5806a3a2ffd2ee499cb1187c4"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/BC_R4/F07-section.svg",
+      "bytes": 16633,
+      "sha256": "12e9017e160551ca5bb2f70ecdc547b64bbb0ac81171c65e9da46fab97c87e13"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F01-crown-A.svg",
+      "bytes": 193830,
+      "sha256": "3d120014ff29dbed8a003168dfe3bec9098d47dcaccfe13906c963f9c65c74b1"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F02-elevations-AD.svg",
+      "bytes": 307633,
+      "sha256": "9f0dc5ff41d09855ac2c9c67dd12c5899f0f6ca7830309ea386cb2b828a2f213"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F03-crown-D.svg",
+      "bytes": 158747,
+      "sha256": "7daf70f79e01ffe97f56ae9aed43c94fc9e36887908da08a379488610b392490"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F04-crown-BC.svg",
+      "bytes": 216340,
+      "sha256": "9094a5fc24ca5ccfafae29def0a17159c6964a71149edc8dc26514ddac18e6d3"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F05-ensemble.svg",
+      "bytes": 326366,
+      "sha256": "b56f45cb0cd746b26692f1fecb58df006a38e8a3c1750d7647de58ad6ac036c4"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F06-day-night.svg",
+      "bytes": 302639,
+      "sha256": "c3d3910e47dd30dee1ace6cbb521a3bfc93e308f1ed4bfd33f64a9d0b6a151c6"
+    },
+    {
+      "path": "02_NGOAI_QUAN/drawings/CROWN_R6/R6-F07-axo.svg",
+      "bytes": 518286,
+      "sha256": "1905f8440d7efbad90824a327445418a4dfac3a2a76f55e5be5ebcd57578d2fd"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/build_crown_r6.py",
+      "bytes": 602,
+      "sha256": "a7aaec6941e35520b2c159f8e8a3b4cb153545a08195c43ae9c11b1ca8ba3aa0"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/build_dossier_pdf.py",
+      "bytes": 6889,
+      "sha256": "f17163ae97b59eb28e7c46b6106f61cb10375e988b04ff5896ab462cba319961"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_export.py",
+      "bytes": 11437,
+      "sha256": "5dfd08255d23c61f97bf0c49155bf651e6dfcd0a5b5b069df9524c1d3cdd7104"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_figures.py",
+      "bytes": 26551,
+      "sha256": "821e5f14852832afa880e3c40d7c0878fff758c66ab66073ac3901c1afb376ce"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_geom.py",
+      "bytes": 14095,
+      "sha256": "c24f5ea23c60d462752c11e403cc02d88e944608795622fb6c324c19bd330f74"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_html.py",
+      "bytes": 8247,
+      "sha256": "fa4b82b24351e5fef1929b187486ca40612edb9af8041605a27a14df6e1a5067"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_render.py",
+      "bytes": 11085,
+      "sha256": "7aaa37770b71246086440940fe9022590126c821d7ed28a719013d4853ca11e7"
+    },
+    {
+      "path": "02_NGOAI_QUAN/scripts/r6_svg.py",
+      "bytes": 3518,
+      "sha256": "eee78504e5eff31caa41b7c6c98fc121ce45fcd623062d0d4fa9b120488b35c2"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/00_SCHEMA_VA_THU_TU_NGUON.md",
+      "bytes": 3373,
+      "sha256": "200631ca8e4ddcb55c3d69e17d42cd0136e0f114438aaec2ca07bad1e667b77c"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/crown-R6-AD-members.csv",
+      "bytes": 79664,
+      "sha256": "e6273cdafdad30450b8978c31c635265c38cdb1d06a4706b068a2fc9da7a1426"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/crown-R6-AD-surface.csv",
+      "bytes": 277274,
+      "sha256": "ec8c5f675b3e580786328e9c525b423eab58a99ecee579cbfdb07115adf61317"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/duplex-bc-source.html",
+      "bytes": 106542,
+      "sha256": "78fc5bbafd949d2f3accd6e5ba9ccbbeae576abc7e70fd8a739cab22184f49fd"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/duplex-source.json",
+      "bytes": 31212,
+      "sha256": "88c6dd7a429d76181cfa58671dbe791f3eb454ff6f5e695ed2bf258400cd2acc"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/facade-ad-r3.json",
+      "bytes": 2066452,
+      "sha256": "6dbcf4636cb6b4b8770ea8c23ab50f0244a79c920dbee4a29351803ef096048d"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/facade-bc-r4.json",
+      "bytes": 49743,
+      "sha256": "de8cafb0509ccef827164b5edd8bee2049284194fea5a44c883d94cc5da65f7a"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/facade-crown-r6.json",
+      "bytes": 12453,
+      "sha256": "5ec14c2f65b9d9602f5f06b74448e20dbd759130bb312cc4fb9a937ed23e8e36"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/floor-schedule-AD-R2.csv",
+      "bytes": 16799,
+      "sha256": "dbefe3d315f66841e88445843c15595f61e5f43cf5e8b73de4db1249c371c9a0"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/floor-schedule-BC.csv",
+      "bytes": 2795,
+      "sha256": "08745b46544ef530a63e9adc158f2cb17182680b91b563e7ce987285327866ce"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/geometry-r2.json",
+      "bytes": 3650444,
+      "sha256": "36d3038e1b7b004778a1300f6708c275499e2a23613369b8678d7a1b446315b5"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/outline-vertices-AD-R2.csv",
+      "bytes": 2483593,
+      "sha256": "9cd1c1121cab6dce248c02f08df9f8cf3cc222b0eb0f60d259fbdb14930c1b25"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/panel-grid-AD-R3.csv",
+      "bytes": 2107358,
+      "sha256": "daf727bad9225d8c53954aed4ed394acb06089205d6eeb4707897a484c39e365"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/panel-grid-BC-R4.csv",
+      "bytes": 10324,
+      "sha256": "ccbdd20d108ba7eaf6082789c40e917dcfb0214c2bd27015d92d34bac4902a43"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/r2-study.json",
+      "bytes": 325339,
+      "sha256": "ce6b99b629e5142ed935367da02b5f90c0bcecd15a0f6aeefdd855b78e64b851"
+    },
+    {
+      "path": "03_DU_LIEU_KIEM_SOAT/view-screen-BC-R4.csv",
+      "bytes": 440,
+      "sha256": "0e27bc85a5b5b276c435cd5ceb61c763b0dc88cbc489230a2d044a6ee6e2de2a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/HOI_LUU_R2.html",
+      "bytes": 381950,
+      "sha256": "5c537c2b2fb999f7d4ddcd27f443bfca364c90af7fa158de91f860c0eeeca08a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/HOI_LUU_R2.md",
+      "bytes": 22613,
+      "sha256": "16e00684a15417036729f6e7aea00720fd678ea6eae6e6dfe965084d892c0304"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/README.md",
+      "bytes": 694,
+      "sha256": "61820680e4014d2a3f4288d8962cfe01205374427ee2f0f779ef134b520acb34"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/build-summary.json",
+      "bytes": 3885,
+      "sha256": "9ef817c5c7a4a9cd68e1e40a09e67d4f1129f12a08f276c8435a3b2fdcd7b9c7"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/core-floor-schedule.csv",
+      "bytes": 9755,
+      "sha256": "b807c4aa564281ba573a7d76f8ec549d09f75de71051fac51e2e4fb40ac60a1e"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/geometry-r2.json",
+      "bytes": 3650444,
+      "sha256": "36d3038e1b7b004778a1300f6708c275499e2a23613369b8678d7a1b446315b5"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/manifest.json",
+      "bytes": 7187,
+      "sha256": "33830d2db91c6d098e4a5cfd63218b16356b5b660f0ba912d9860295116d9790"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/r2-study.json",
+      "bytes": 325339,
+      "sha256": "ce6b99b629e5142ed935367da02b5f90c0bcecd15a0f6aeefdd855b78e64b851"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/release-validation.json",
+      "bytes": 242,
+      "sha256": "303a44bf223dbd4761d333a33680dd292480bd332b3f91bd3589b8785a666f49"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/data/traffic-banks.csv",
+      "bytes": 2052,
+      "sha256": "600d7927c8d2b0b8c2e51a07fc42075c15fd071b0b32d7d0401aa218fe4cf746"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/00-co-so.md",
+      "bytes": 2132,
+      "sha256": "bcbb43f969022b9d2f3def6b8687b5494d81d7c4f83b7fde7a6322ca4ed6611a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/01-core.md",
+      "bytes": 2574,
+      "sha256": "515347945920b2a4b4413b1266450c7a22da075b122f4c2e801279c62424369e"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/02-A.md",
+      "bytes": 2806,
+      "sha256": "2a667aa4fd9c3489de12fb58141eefb67ac4bbcf28d8b6c5ee444d52bc3af008"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/03-D.md",
+      "bytes": 1961,
+      "sha256": "3452e58a1ca3fd69838d4fa99751d3e7ffa094a5d8281e58a3d35d8b8b1cd6bc"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/04-calculation.md",
+      "bytes": 4267,
+      "sha256": "d894e2f49b076b55a4dc74349e23c370064a71e31cdc27c64fe9ed074fddccd6"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/05-cabin.md",
+      "bytes": 2292,
+      "sha256": "2c1929756f3c0b6781dbf432ad1ab171acc5495abc3a45ceea52c4a03aac855e"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/06-geometry.md",
+      "bytes": 2669,
+      "sha256": "785090fde01f63c6b22b4a16ec2a14c501ec0d199819fd4166738163b0b862d8"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/docs/07-checkpoint.md",
+      "bytes": 3916,
+      "sha256": "1aebf2f346a13fd88a257c09f795bac971bc452449a7e2ef75ebafe1004a7ec1"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/A02-core-reservations.png",
+      "bytes": 146203,
+      "sha256": "9aa294384a70efc384c42683ed169324913d54524f645ea7212ed24d8a6ed57c"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/A02-core-reservations.svg",
+      "bytes": 142964,
+      "sha256": "964d99ed7e1286c7a9179e240de04b2f6eb888fa2538f012b510d3b90fcae59a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/B02-mall-core-adjustment.png",
+      "bytes": 125933,
+      "sha256": "80b991267987123a1252b15b39b7c699614d7bb017426d65c6061b019024f052"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/B02-mall-core-adjustment.svg",
+      "bytes": 44497,
+      "sha256": "190219120b395613a8047ac287752da77c16cb3a04f47238b0df15a30ec61591"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/D02-core-reservations.png",
+      "bytes": 83352,
+      "sha256": "f8fd56938216304664a8750fc1ed373ee0669be5b787808f3ad39866411a7602"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/D02-core-reservations.svg",
+      "bytes": 51057,
+      "sha256": "f7135385c21e179009a55c4a6a1d7b11ee6d42fb6bf1f136bcbfa52a5cef5cea"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/P02-floor-envelope.png",
+      "bytes": 174308,
+      "sha256": "6db14433b8dd92ad04c727fac1634a4459dae0175f2fba8cc40ccac1905f637a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/P02-floor-envelope.svg",
+      "bytes": 75430,
+      "sha256": "08ea0b32657e62e0a0ab94683515f75e736bf40e8f227d3b094bd185c851aa84"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/T02-traffic-screen.png",
+      "bytes": 82900,
+      "sha256": "bd694751feeb2425f27348d6d22844d338c1b9081490650e241958d8d4a1f137"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/T02-traffic-screen.svg",
+      "bytes": 19750,
+      "sha256": "091a0ba1b592f9b152b3958cdc7a26e61b49ed9312a35f66c8e5405fdfe4246d"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/V02-vertical-zoning.png",
+      "bytes": 114831,
+      "sha256": "3ebcbdb1ee14a59fbb5c780807bf5c484e63ab3cb639372bb5e756274162e693"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/drawings/V02-vertical-zoning.svg",
+      "bytes": 22378,
+      "sha256": "5bf9e8ba07bfeffcb43888765d85ed9e316058394e825b6c93e8b0d407f7fa22"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/scripts/build_drawings_report.py",
+      "bytes": 35677,
+      "sha256": "a581cb8f49be422327a7e4b0fe3af71658989ec3bf881ed18e3ce00abe52ab14"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/scripts/build_r2.py",
+      "bytes": 14092,
+      "sha256": "6cf2831feaf7dc205e87436a5ec79b20f3c7b16a0772dc6d9bb608e046f9023c"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/scripts/verify_release.py",
+      "bytes": 1244,
+      "sha256": "3aa824982c298680f0e99596c336719ecaca04b55ca07fc6e33df4fc32ace863"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/HOI_LUU_R1.html",
+      "bytes": 1010824,
+      "sha256": "5a53114d384a10d6a0c9a26d0f06a7f52ca2e4f4f7c3f1c3382a97365baf5877"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/HOI_LUU_R1.md",
+      "bytes": 43741,
+      "sha256": "0cf75dd1bf3f10e84eb57670d34889dc075ee65903ac43877b1efc2d5d334260"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/README.md",
+      "bytes": 908,
+      "sha256": "14882267dbe9067b0cf2f9a23bc04eedb5e1d0186d6a49b7d3c7127d2807cce6"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/bc-source-r1.json",
+      "bytes": 31212,
+      "sha256": "88c6dd7a429d76181cfa58671dbe791f3eb454ff6f5e695ed2bf258400cd2acc"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/checks.json",
+      "bytes": 50004,
+      "sha256": "3645ec2bc1615d6f1d7c4dbba168c90fb5798b47172589c56fd1d345437a0f00"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/floor-schedule.csv",
+      "bytes": 23735,
+      "sha256": "6d774b9e4da1d3f05be3ed1f3b66a94cb278e1198641a2dd8858f018947f2d5a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/geometry.json",
+      "bytes": 3630893,
+      "sha256": "1066c8e31630422c520a48898b6ac29feefcab02e21cd4a562723cd8a1e8c180"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/model-manifest.json",
+      "bytes": 11639,
+      "sha256": "0ab2e5f01ae328895e629b7463f15ee5cef1e92b01b10ef5ece0f942b6c50d67"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/outline-vertices.csv",
+      "bytes": 1669975,
+      "sha256": "6d2fda14be360c804438d971f111c4b37f5ae949239e4b6069739199be819d50"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/data/release-validation.json",
+      "bytes": 299,
+      "sha256": "954eaecde957c9e1bbe60ee5073e41487612b7dc17375bd7c5e858657ffc4a4a"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/00-nguon-chuan.md",
+      "bytes": 3880,
+      "sha256": "844a1762685eb923f2927f2e3baf4dd4c9cebbc0a73dbc96c9bc09e7bac0415c"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/01-ngan-sach.md",
+      "bytes": 3009,
+      "sha256": "0f85876b32aea8ab48f336eac0ffc21c62753b895b1f1171a2c1d3bac0ecee2f"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/02-tong-mat-bang.md",
+      "bytes": 3458,
+      "sha256": "3365ece8a12622b8914a0daf76d15a6efbf9802668e48f31c222a98264cd9a48"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/03-thap-a.md",
+      "bytes": 4706,
+      "sha256": "f519e7647d2fa9ce1aace1ed2612d47ceadb1a672e4e8097fe0f9517e7f4e0c2"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/04-thap-d.md",
+      "bytes": 3972,
+      "sha256": "d653b361c2029a4f474b9cfe488846dd95344b4eb7d6f1f3e986715014d166b3"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/05-de-va-ham.md",
+      "bytes": 6054,
+      "sha256": "09f6bdd49799a7c0dbd727ff4f259562fe909ef309adce7c5c450a465d88e56b"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/06-cau-truc-va-he-thong.md",
+      "bytes": 5187,
+      "sha256": "3579687fbdc8711eece51f0ad987a608afeb8962ed1f10c6863bfe976d30ed13"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/07-mat-dung-crown.md",
+      "bytes": 4379,
+      "sha256": "cc2430d4e3d944b4aafc1ad09e5e2ce682c9f40a47c37ff7400ae1f79cb6da97"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/08-dung-model.md",
+      "bytes": 4168,
+      "sha256": "c0e0f79000ee773177d18d05e348bb623fcceaaa6d27bfb1721eb701366e648d"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/docs/09-kiem-tra.md",
+      "bytes": 4928,
+      "sha256": "f73fb7da05a1d9e146f91f2f8ef7039efcaec38feb71e6e60e2f91d3dd9a7fa0"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/A01-plans.png",
+      "bytes": 154447,
+      "sha256": "dcf30d7bb350b92ce37f039ce0626c5ebc110f37e81d50a3963f9fdb10d605e0"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/A01-plans.svg",
+      "bytes": 77394,
+      "sha256": "88c8f6f9472f4cb18017ea337337235bc35ad21ddd6bb5fe964b78d0110187bf"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/D01-plans.png",
+      "bytes": 131850,
+      "sha256": "c45b1df9e3e7fcb4f79bd696b0e231cf2882f4259266de43d2a93b9bd4f07506"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/D01-plans.svg",
+      "bytes": 81193,
+      "sha256": "55b81b483d9e976a460523f6b02a6bf0ff54aa41472be4190fa0c1278c91c5f0"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/E01-elevations.png",
+      "bytes": 144706,
+      "sha256": "42cbde29e78d4b4002b600c6822a9d433c3307d1be689c23c667db9d6246f117"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/E01-elevations.svg",
+      "bytes": 98734,
+      "sha256": "756ac5e14a3a51cca1249a08b030ad33ed07a5124925adfffcf633c4b9a3104b"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/S01-site.png",
+      "bytes": 119986,
+      "sha256": "d8e1f04809b94f3365e7bf4713764efe3ab1efc8f505d3e53fbc33dc8b321494"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/S01-site.svg",
+      "bytes": 50449,
+      "sha256": "ba40ea08e308161c608a4afb471c5f17404bb37cf4607d0b43c72441377466ba"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/S02-basement.png",
+      "bytes": 129817,
+      "sha256": "bf6a6e9f0c6a69ccc15b4f780e1113dc0db898666805aec9a1164e8251d4bf0d"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/S02-basement.svg",
+      "bytes": 45103,
+      "sha256": "c59c890e784daf324963c8faa43a7152016f59a77a8c264781c9f9fcffc09585"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/V01-axonometric.png",
+      "bytes": 308847,
+      "sha256": "6a0cc5690b44182c631e86bd3a914a6d8e574e88282bd45ec360afbfa3d8aad6"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/drawings/V01-axonometric.svg",
+      "bytes": 362947,
+      "sha256": "983c2770b627cf7dc1b33c2a893abbf3b1aab1c59cb293295697d1d5cefbdd21"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/model/hoi-luu-r1.mtl",
+      "bytes": 167,
+      "sha256": "f643546860210c0bc31cfb03d8107c66e3c11b0ca292c4d39809c512994bb1aa"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/model/hoi-luu-r1.obj",
+      "bytes": 3312331,
+      "sha256": "29e687af75cadae0165f51bb43f01e8b2ef847a008af9834657b4aa12778c31f"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/scripts/build_geometry.py",
+      "bytes": 16058,
+      "sha256": "f9fd05c1b2e5d3ceff8de7645df31ab12c0bd3f88304b791253bd0725859c3e9"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/scripts/build_report.py",
+      "bytes": 44890,
+      "sha256": "93324de1ede1172d372c77a498dfe9a06ecf8aa22152682263157b110956743b"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/scripts/build_views.py",
+      "bytes": 14912,
+      "sha256": "e433f783f01ca6cfab1d0490e192d22a20c5a230896dc690d84e71f00baeef49"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/scripts/import_blender.py",
+      "bytes": 3786,
+      "sha256": "e5eb4dbe832bbc9a048c96ecd5f94d96b2eeb9f454770ae2bf90f7b5e8d06372"
+    },
+    {
+      "path": "04_NGUON_HINH_HOC_LOI_R2/source-r1/scripts/verify_release.py",
+      "bytes": 1975,
+      "sha256": "a56b9b3959cb0728bdf6937b86ee65b9f0c893adfbf1bdefc7b28e45e1289202"
+    },
+    {
+      "path": "05_DANH_GIA/BIEU_MAU_DANH_GIA.md",
+      "bytes": 1771,
+      "sha256": "96c37d8d3745cbb34b1beb870d0c67226be666cac68ac23c23d5a1054a6c8858"
+    },
+    {
+      "path": "05_DANH_GIA/MA_TRAN_RANG_BUOC.csv",
+      "bytes": 1660,
+      "sha256": "866cf70c5443a5190b284cde63797002fe9ed5f0425a90739a23fee5e95ac1ab"
+    }
+  ]
+}

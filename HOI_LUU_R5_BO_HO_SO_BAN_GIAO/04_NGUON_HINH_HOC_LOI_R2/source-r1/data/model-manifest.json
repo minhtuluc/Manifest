@@ -1,0 +1,615 @@
+{
+  "vertices": 58292,
+  "faces": 54188,
+  "objects": [
+    {
+      "name": "A_glass_envelope",
+      "first": 0,
+      "count": 23552,
+      "material": "glass_A"
+    },
+    {
+      "name": "A_crown_fin_0",
+      "first": 23552,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_8",
+      "first": 23582,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_16",
+      "first": 23612,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_24",
+      "first": 23642,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_32",
+      "first": 23672,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_40",
+      "first": 23702,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_48",
+      "first": 23732,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_56",
+      "first": 23762,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_64",
+      "first": 23792,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_72",
+      "first": 23822,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_80",
+      "first": 23852,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_88",
+      "first": 23882,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_96",
+      "first": 23912,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_104",
+      "first": 23942,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_112",
+      "first": 23972,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_120",
+      "first": 24002,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_128",
+      "first": 24032,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_136",
+      "first": 24062,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_144",
+      "first": 24092,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_152",
+      "first": 24122,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_160",
+      "first": 24152,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_168",
+      "first": 24182,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_176",
+      "first": 24212,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_184",
+      "first": 24242,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_192",
+      "first": 24272,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_200",
+      "first": 24302,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_208",
+      "first": 24332,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_216",
+      "first": 24362,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_224",
+      "first": 24392,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_232",
+      "first": 24422,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_240",
+      "first": 24452,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_fin_248",
+      "first": 24482,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "A_crown_rim",
+      "first": 24512,
+      "count": 1536,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_1",
+      "first": 26048,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_2",
+      "first": 26636,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_3",
+      "first": 27224,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_4",
+      "first": 27812,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_5",
+      "first": 28400,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_6",
+      "first": 28988,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_7",
+      "first": 29576,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_rib_8",
+      "first": 30164,
+      "count": 588,
+      "material": "silver"
+    },
+    {
+      "name": "A_podium_1",
+      "first": 30752,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "A_podium_2",
+      "first": 31008,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "A_podium_3",
+      "first": 31264,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "A_podium_4",
+      "first": 31520,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "A_podium_5",
+      "first": 31776,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "A_podium_6",
+      "first": 32032,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_glass_envelope",
+      "first": 32288,
+      "count": 14848,
+      "material": "glass_D"
+    },
+    {
+      "name": "D_crown_fin_0",
+      "first": 47136,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_8",
+      "first": 47166,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_16",
+      "first": 47196,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_24",
+      "first": 47226,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_32",
+      "first": 47256,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_40",
+      "first": 47286,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_48",
+      "first": 47316,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_56",
+      "first": 47346,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_64",
+      "first": 47376,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_72",
+      "first": 47406,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_80",
+      "first": 47436,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_88",
+      "first": 47466,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_96",
+      "first": 47496,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_104",
+      "first": 47526,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_112",
+      "first": 47556,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_120",
+      "first": 47586,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_128",
+      "first": 47616,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_136",
+      "first": 47646,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_144",
+      "first": 47676,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_152",
+      "first": 47706,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_160",
+      "first": 47736,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_168",
+      "first": 47766,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_176",
+      "first": 47796,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_184",
+      "first": 47826,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_192",
+      "first": 47856,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_200",
+      "first": 47886,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_208",
+      "first": 47916,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_216",
+      "first": 47946,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_224",
+      "first": 47976,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_232",
+      "first": 48006,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_240",
+      "first": 48036,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_fin_248",
+      "first": 48066,
+      "count": 30,
+      "material": "silver"
+    },
+    {
+      "name": "D_crown_rim",
+      "first": 48096,
+      "count": 1536,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_1",
+      "first": 49632,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_2",
+      "first": 50004,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_3",
+      "first": 50376,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_4",
+      "first": 50748,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_5",
+      "first": 51120,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_6",
+      "first": 51492,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_7",
+      "first": 51864,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_rib_8",
+      "first": 52236,
+      "count": 372,
+      "material": "silver"
+    },
+    {
+      "name": "D_podium_1",
+      "first": 52608,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_podium_2",
+      "first": 52864,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_podium_3",
+      "first": 53120,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_podium_4",
+      "first": 53376,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_podium_5",
+      "first": 53632,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "D_podium_6",
+      "first": 53888,
+      "count": 256,
+      "material": "podium"
+    },
+    {
+      "name": "B_REFERENCE_ONLY",
+      "first": 54144,
+      "count": 16,
+      "material": "residential"
+    },
+    {
+      "name": "B_podium_REFERENCE",
+      "first": 54160,
+      "count": 6,
+      "material": "podium"
+    },
+    {
+      "name": "C_REFERENCE_ONLY",
+      "first": 54166,
+      "count": 16,
+      "material": "residential"
+    },
+    {
+      "name": "C_podium_REFERENCE",
+      "first": 54182,
+      "count": 6,
+      "material": "podium"
+    }
+  ],
+  "crown_rules": {
+    "A": "Z_top(theta)=478.5+1.5*cos(4*theta); 12% radial shrink plus Hermite initial slope from last body interval",
+    "D": "Z_top(theta)=281.5+3.5*cos(theta); 3.5% radial shrink plus Hermite initial slope from last body interval"
+  },
+  "D_sky_lobby_recess": {
+    "from_z": 157.45,
+    "height": 6,
+    "glass_setback": 3
+  }
+}

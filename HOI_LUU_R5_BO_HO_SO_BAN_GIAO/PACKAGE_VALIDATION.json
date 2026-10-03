@@ -1,0 +1,257 @@
+{
+  "revision": "R6-CROWN (on R5-HANDOVER)",
+  "date": "2026-09-30",
+  "status": "passed",
+  "scope": "packaging, source integrity, R6 crown data/geometry checks, arithmetic and PDF layout; not structural/wind/BMU/aviation/code certification",
+  "visual_review": "All 40 PDF pages rendered to contact sheets and reviewed; the 7 R6 drawings and CROWN_R6.html reviewed at full size.",
+  "checks": [
+    {
+      "name": "exact_copy:hoi-luu-r2/data/geometry-r2.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:hoi-luu-r2/data/r2-study.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:bc-facade-source/ad-facade-r3.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:hoi-luu-r4-bc-facade/facade-bc-r4.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:bc-facade-source/duplex-data.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:HOI_LUU_R3_FACADE.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:HOI_LUU_R4_BC_FACADE.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "exact_copy:HOI_LUU_CATALOG_R1_R2.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "complete_R2_source_snapshot",
+      "passed": true,
+      "detail": 72
+    },
+    {
+      "name": "AD_floor_count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "BC_floor_count_units",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "BC_regular_panel_count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "AD_panel_count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "GFA_control",
+      "passed": true,
+      "detail": 631690.24
+    },
+    {
+      "name": "site_area",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "basement_envelope",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "core_rect_bounds:A",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "core_rect_bounds:D",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "CSV_count:floor-schedule-AD-R2.csv",
+      "passed": true,
+      "detail": 160
+    },
+    {
+      "name": "CSV_count:floor-schedule-BC.csv",
+      "passed": true,
+      "detail": 40
+    },
+    {
+      "name": "CSV_count:outline-vertices-AD-R2.csv",
+      "passed": true,
+      "detail": 40960
+    },
+    {
+      "name": "geometry_and_facade_svg_count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "review_constraints_and_form",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source_model_scope_note",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R5_sources_byte_identical_except_intended_R6_edits",
+      "passed": true,
+      "detail": {
+        "changed_intended": [
+          "00_DOC_TRUOC.md",
+          "01_HO_SO/CATALOG_NGUON_R1_R4.md",
+          "01_HO_SO/HOI_LUU_R5_HO_SO_BAN_GIAO.md",
+          "01_HO_SO/HOI_LUU_R5_HO_SO_BAN_GIAO.pdf",
+          "03_DU_LIEU_KIEM_SOAT/00_SCHEMA_VA_THU_TU_NGUON.md",
+          "05_DANH_GIA/MA_TRAN_RANG_BUOC.csv"
+        ],
+        "unexpected": [],
+        "missing": []
+      }
+    },
+    {
+      "name": "R6_new_files",
+      "passed": true,
+      "detail": 19
+    },
+    {
+      "name": "R6_drawing_count",
+      "passed": true,
+      "detail": [
+        "R6-F01-crown-A.svg",
+        "R6-F02-elevations-AD.svg",
+        "R6-F03-crown-D.svg",
+        "R6-F04-crown-BC.svg",
+        "R6-F05-ensemble.svg",
+        "R6-F06-day-night.svg",
+        "R6-F07-axo.svg"
+      ]
+    },
+    {
+      "name": "MD_image_links_resolve",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "name": "PDF_page_count",
+      "passed": true,
+      "detail": 40
+    },
+    {
+      "name": "PDF_landscape_plates",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "name": "PDF_bookmarks",
+      "passed": true,
+      "detail": 40
+    },
+    {
+      "name": "PDF_text_no_replacement_glyph",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "name": "visual_QA_contact_sheets",
+      "passed": true,
+      "detail": "PDF pages and all 7 R6 SVG drawings rendered and reviewed"
+    },
+    {
+      "name": "R6:slab_outlines_floor_levels_roofs_unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R6:no_GFA_added",
+      "passed": true,
+      "detail": 631690.24
+    },
+    {
+      "name": "R6:A_top_within_R6_envelope_520",
+      "passed": true,
+      "detail": 519.539
+    },
+    {
+      "name": "R6:D_top_within_R6_envelope_310",
+      "passed": true,
+      "detail": 309.958
+    },
+    {
+      "name": "R6:BC_top_within_H02_160",
+      "passed": true,
+      "detail": 159.9
+    },
+    {
+      "name": "R6:hierarchy_D_over_A_ratio_0.58_0.61",
+      "passed": true,
+      "detail": 0.5966
+    },
+    {
+      "name": "R6:crown_fins_on_panel_nodes",
+      "passed": true,
+      "detail": {
+        "A": 0.0,
+        "D": 0.0
+      }
+    },
+    {
+      "name": "R6:fins_do_not_coincide_with_major_ribs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R6:equipment_screen_below_lowest_rim",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R6:member_counts",
+      "passed": true,
+      "detail": {
+        "A": {
+          "rib": 8,
+          "fin": 32,
+          "rim": 4
+        },
+        "D": {
+          "rib": 8,
+          "fin": 23,
+          "rim": 1
+        }
+      }
+    }
+  ]
+}
